@@ -1,0 +1,746 @@
+Protein FDR Confidence: Combined	Accession	Description	Coverage [%]	# Peptides	# PSMs	# Unique Peptides	# AAs	MW [kDa]	Abundance: F2: Sample	Modifications
+High	P29392	Spermadhesin-1 OS=Bos taurus OX=9913 GN=SPADH1 PE=1 SV=1	81	17	479	17	134	15	32519732753	
+High	A0AAF6ZKY4	Binder of sperm 1 OS=Bos taurus OX=9913 GN=BSP1 PE=3 SV=1	49	18	431	18	156	17.7	15998106507	
+High	P04557	Seminal plasma protein A3 OS=Bos taurus OX=9913 PE=1 SV=2	69	18	363	17	140	16.1	5133206194	
+High	Q4R0H2	Spermadhesin 2 OS=Bos taurus OX=9913 GN=spadh2 PE=2 SV=1	68	11	211	2	134	15.2	3496299558	
+High	Q28017	Platelet-activating factor acetylhydrolase OS=Bos taurus OX=9913 GN=PLA2G7 PE=2 SV=1	67	28	232	1	444	50.1	44856148.38	
+High	P17697	Clusterin OS=Bos taurus OX=9913 GN=CLU PE=1 SV=1	53	20	173	18	439	51.1	3529037355	
+High	Q9N2I2	Plasma serine protease inhibitor OS=Bos taurus OX=9913 GN=SERPINA5 PE=1 SV=1	75	27	244	27	404	45.3	2141647095	
+High	P81019	Seminal plasma protein BSP-30 kDa OS=Bos taurus OX=9913 PE=1 SV=2	64	22	225	22	183	21.3	9451129641	
+High	Q1RML9	Platelet-activating factor acetylhydrolase OS=Bos taurus OX=9913 GN=PLA2G7 PE=2 SV=1	67	28	228	1	444	50.1	1210340099	
+High	P82292	Spermadhesin Z13 OS=Bos taurus OX=9913 PE=1 SV=1	54	10	152	1	116	13.4	843918852.6	
+High	P00669	Seminal ribonuclease OS=Bos taurus OX=9913 GN=SRN PE=1 SV=2	82	19	178	17	150	16.4	12224342880	
+High	A0ABI0P2H3	Metalloproteinase inhibitor 2 OS=Bos taurus OX=9913 GN=TIMP2 PE=3 SV=1	73	20	187	20	220	24.4	7361729212	
+High	P13600	Beta-nerve growth factor OS=Bos taurus OX=9913 GN=NGF PE=2 SV=3	54	16	135	16	241	26.7	602577901	
+High	A0A3Q1M858	Lipocalin/cytosolic fatty-acid binding domain-containing protein OS=Bos taurus OX=9913 GN=LOC100295548 PE=3 SV=1	69	11	114	11	180	19.6	594126386.9	
+High	Q28085	Complement factor H OS=Bos taurus OX=9913 GN=CFH PE=1 SV=3	69	61	111	11	1236	140.3	740366755.5	
+High	Q8HZY1	Glia-derived nexin OS=Bos taurus OX=9913 GN=SERPINE2 PE=2 SV=1	60	24	153	24	397	43.8	1316299551	
+High	A0A3Q1M315	Complement factor H OS=Bos taurus OX=9913 GN=CFH PE=4 SV=2	66	58	106	8	1236	140.3	27307372.56	
+High	E1BN79	Carboxylic ester hydrolase OS=Bos taurus OX=9913 GN=CES5A PE=3 SV=1	58	18	107	18	576	64.3	314050084	
+High	Q0P569	Nucleobindin-1 OS=Bos taurus OX=9913 GN=NUCB1 PE=1 SV=1	54	24	104	24	474	54.9	691217004.6	
+High	P02769	Albumin OS=Bos taurus OX=9913 GN=ALB PE=1 SV=4	68	42	108	42	607	69.2	756243417.7	
+High	P79345	NPC intracellular cholesterol transporter 2 OS=Bos taurus OX=9913 GN=NPC2 PE=1 SV=1	56	7	108	7	149	16.6	1082763118	
+High	F1MM32	Sulfhydryl oxidase OS=Bos taurus OX=9913 GN=QSOX1 PE=3 SV=4	55	31	114	31	750	82.1	532731702.7	
+High	F1N3U5	Vanin 2 OS=Bos taurus OX=9913 GN=VNN2 PE=3 SV=4	47	13	75	13	520	58.3	209862567.6	
+High	P12820	Angiotensin-converting enzyme OS=Bos taurus OX=9913 GN=ACE PE=1 SV=3	31	29	78	29	1306	150	313256893	
+High	A0A3Q1MUV9	Inhibitor of carbonic anhydrase OS=Bos taurus OX=9913 GN=INHCA PE=1 SV=3	63	35	68	33	708	78.2	308357459.3	
+High	Q05927	5'-nucleotidase OS=Bos taurus OX=9913 GN=NT5E PE=1 SV=2	62	26	99	26	574	62.9	880674329.2	
+High	A7E3W2	Galectin-3-binding protein OS=Bos taurus OX=9913 GN=LGALS3BP PE=1 SV=1	46	18	101	18	555	62.1	568759228.2	
+High	F1MGQ1	Deoxyribonuclease OS=Bos taurus OX=9913 GN=DNASE1L3 PE=3 SV=3	65	20	101	20	305	34.9	751911588	
+High	A6QP39	Mesothelin OS=Bos taurus OX=9913 GN=MSLN PE=2 SV=1	30	7	58	7	403	44.3	46578782.35	
+High	P31096	Osteopontin OS=Bos taurus OX=9913 GN=SPP1 PE=1 SV=2	52	15	56	2	278	30.9	1755636724	
+High	F1MPF3	Protocadherin Fat 2 OS=Bos taurus OX=9913 GN=FAT2 PE=4 SV=3	19	65	71	65	4347	479	65128703.75	
+High	Q7YRQ8	Tissue factor pathway inhibitor 2 OS=Bos taurus OX=9913 GN=TFPI2 PE=2 SV=1	50	12	53	12	234	26.7	2094913975	
+High	F1MI46	Secreted phosphoprotein 1 OS=Bos taurus OX=9913 GN=SPP1 PE=3 SV=3	40	14	48	1	311	34	6348423	
+High	F1N1I6	Gelsolin OS=Bos taurus OX=9913 GN=GSN PE=1 SV=2	51	26	52	26	846	92	267551071.6	
+High	P24627	Lactotransferrin OS=Bos taurus OX=9913 GN=LTF PE=1 SV=2	56	32	50	30	708	78	374288903.6	
+High	P26779	Prosaposin OS=Bos taurus OX=9913 GN=PSAP PE=1 SV=3	67	23	43	2	525	58	311266367.4	
+High	A0AAA9SE43	Golgi apparatus protein 1 OS=Bos taurus OX=9913 GN=GLG1 PE=1 SV=1	40	39	47	39	1213	137.6	83541716.81	
+High	A0A3Q1MIM1	Fibronectin type-II domain-containing protein OS=Bos taurus OX=9913 GN=LOC100299268 PE=3 SV=2	54	8	63	7	140	16.1	187626525.1	
+High	Q3ZBZ1	45 kDa calcium-binding protein OS=Bos taurus OX=9913 GN=SDF4 PE=2 SV=1	65	16	37	16	355	41.1	106659224.6	
+High	A0A140T8C6	Prosaposin OS=Bos taurus OX=9913 GN=PSAP PE=4 SV=3	50	22	42	1	660	72.4	16740783.5	
+High	Q29444	Beta-mannosidase OS=Bos taurus OX=9913 GN=MANBA PE=1 SV=1	54	30	48	30	879	101.1	90809646.25	
+High	E1BI74	NAD(P)(+)--arginine ADP-ribosyltransferase OS=Bos taurus OX=9913 PE=3 SV=3	52	15	44	10	309	33.9	583379476.8	
+High	A0AAA9SCN4	Matrilin-4 OS=Bos taurus OX=9913 GN=MATN4 PE=4 SV=1	50	24	39	24	622	68.4	103133932.2	
+High	P81425	Dipeptidyl peptidase 4 OS=Bos taurus OX=9913 GN=DPP4 PE=1 SV=3	38	27	42	27	765	88.3	152617059.9	
+High	A0AAA9U1W7	Nucleobindin 2 OS=Bos taurus OX=9913 GN=NUCB2 PE=1 SV=1	52	18	45	18	416	49.3	261037867.6	
+High	A0A3Q1N3A9	Nephronectin OS=Bos taurus OX=9913 GN=NPNT PE=3 SV=2	34	17	35	17	570	62.5	91118078.69	
+High	P81401	VIP peptides OS=Bos taurus OX=9913 GN=VIP PE=1 SV=2	68	10	32	10	170	19.2	249631662.9	
+High	Q3T010	Phosphatidylethanolamine-binding protein 4 OS=Bos taurus OX=9913 GN=PEBP4 PE=2 SV=1	54	8	31	8	223	25.1	88302775.42	
+High	Q3ZBD7	Glucose-6-phosphate isomerase OS=Bos taurus OX=9913 GN=GPI PE=2 SV=4	65	22	32	22	557	62.8	57563859.69	Met-loss+Acetyl [N-Term]
+High	P01888	Beta-2-microglobulin OS=Bos taurus OX=9913 GN=B2M PE=1 SV=2	54	4	37	4	118	13.7	221360112.1	
+High	A0A3Q1MBP1	Hypoxia up-regulated protein 1 OS=Bos taurus OX=9913 GN=HYOU1 PE=3 SV=2	39	29	33	29	1002	111.6	69722125.81	
+High	A0AAA9SR81	Phosphoglycerate kinase OS=Bos taurus OX=9913 GN=PGK2 PE=3 SV=2	58	19	32	19	417	44.7	98126327.25	
+High	Q29443	Serotransferrin OS=Bos taurus OX=9913 GN=TF PE=2 SV=1	58	29	36	2	704	77.7	55055191.13	
+High	A0AAA9U1B9	Serotransferrin OS=Bos taurus OX=9913 GN=TF PE=1 SV=1	55	28	35	1	704	77.5	2575455	
+High	Q76LV2	Heat shock protein HSP 90-alpha OS=Bos taurus OX=9913 GN=HSP90AA1 PE=1 SV=3	46	28	33	28	733	84.7	54929869.38	
+High	Q0V8B6	Tripeptidyl-peptidase 1 OS=Bos taurus OX=9913 GN=TPP1 PE=2 SV=1	60	18	26	18	563	61.3	71229824.75	
+High	O77588	Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 OS=Bos taurus OX=9913 GN=PLOD1 PE=2 SV=2	46	24	28	24	726	83.4	53408100	
+High	P80209	Cathepsin D OS=Bos taurus OX=9913 GN=CTSD PE=1 SV=2	42	14	29	1	390	42.5	16013652	
+High	F1MMR6	Cathepsin D OS=Bos taurus OX=9913 GN=CTSD PE=3 SV=2	36	14	28	1	464	49.7	189563935	
+High	P63258	Actin, cytoplasmic 2 OS=Bos taurus OX=9913 GN=ACTG1 PE=1 SV=1	69	16	23	8	375	41.8	83640119.5	Met-loss+Acetyl [N-Term]
+High	F1MEM5	Aminopeptidase OS=Bos taurus OX=9913 GN=ENPEP PE=3 SV=1	37	29	37	29	956	109.8	79137031.22	
+High	G5E531	T-complex protein 1 subunit alpha OS=Bos taurus OX=9913 GN=TCP1 PE=1 SV=1	63	26	28	26	556	60.2	35404462.38	Acetyl [N-Term]
+High	H7BWW2	Beta-hexosaminidase OS=Bos taurus OX=9913 GN=HEXB PE=3 SV=1	54	20	35	13	537	61.2	93849760.66	
+High	P55206	C-type natriuretic peptide OS=Bos taurus OX=9913 GN=NPPC PE=2 SV=1	49	9	30	9	126	13.3	5071157048	
+High	P07688	Cathepsin B OS=Bos taurus OX=9913 GN=CTSB PE=1 SV=5	63	14	26	14	335	36.6	113545909.3	
+High	A0AAA9TP79	Beta-hexosaminidase OS=Bos taurus OX=9913 GN=LOC786974 PE=3 SV=1	50	16	25	9	545	62	22233658	
+High	Q3T0K2	T-complex protein 1 subunit gamma OS=Bos taurus OX=9913 GN=CCT3 PE=1 SV=1	48	20	23	20	545	60.5	27285626.94	Acetyl [N-Term]
+High	Q5DPW9	Cystatin E/M OS=Bos taurus OX=9913 GN=CST6 PE=3 SV=1	68	8	24	8	149	16.3	162168058.6	
+High	P25975	Procathepsin L OS=Bos taurus OX=9913 GN=CTSL PE=1 SV=3	48	11	21	11	334	37.3	113748850.1	
+High	A0A493UA87	Aldo-keto reductase family 1 member B1 OS=Bos taurus OX=9913 GN=AKR1B1 PE=3 SV=1	68	16	20	16	316	36	54041411.38	Met-loss+Acetyl [N-Term]
+High	P15467	Ribonuclease 4 OS=Bos taurus OX=9913 GN=RNASE4 PE=1 SV=5	52	7	24	7	147	16.9	400583050.8	
+High	E1BJV0	EH domain containing 4 OS=Bos taurus OX=9913 GN=EHD4 PE=4 SV=1	43	20	26	19	540	61	47104108.69	
+High	E1BG25	Melanotransferrin OS=Bos taurus OX=9913 GN=MELTF PE=3 SV=1	45	23	24	23	739	80.6	41820420.34	
+High	Q3ZCI9	T-complex protein 1 subunit theta OS=Bos taurus OX=9913 GN=CCT8 PE=1 SV=3	55	24	25	24	548	59.6	28877946.56	
+High	Q2UVX4	Complement C3 OS=Bos taurus OX=9913 GN=C3 PE=1 SV=2	29	36	43	36	1661	187.1	97806945.53	
+High	Q9XSC9	Transcobalamin-2 OS=Bos taurus OX=9913 GN=TCN2 PE=1 SV=1	62	21	31	21	432	47.9	113710956.5	
+High	Q0VCX2	Endoplasmic reticulum chaperone BiP OS=Bos taurus OX=9913 GN=HSPA5 PE=2 SV=1	40	21	26	20	655	72.4	63956714.75	
+High	A0AAF6DLP3	Dipeptidyl peptidase 2 OS=Bos taurus OX=9913 GN=DPP7 PE=3 SV=1	25	7	17	7	593	65.5	14168050.81	
+High	P81187	Complement factor B OS=Bos taurus OX=9913 GN=CFB PE=1 SV=2	35	17	24	17	761	85.3	25477370.72	
+High	F1MWD3	T-complex protein 1 subunit epsilon OS=Bos taurus OX=9913 GN=CCT5 PE=1 SV=3	45	19	23	19	541	59.6	45974281.44	Met-loss+Acetyl [N-Term]
+High	F6RH18	Beta-1,4-galactosyltransferase OS=Bos taurus OX=9913 GN=B4GALT4 PE=3 SV=1	52	17	24	17	344	39.9	103818537.6	
+High	A0AAA9S7P6	Glutathione peroxidase OS=Bos taurus OX=9913 PE=3 SV=1	43	7	37	6	224	25.6	387509250.8	
+High	G3MX65	WAP four-disulfide core domain protein 2 OS=Bos taurus OX=9913 GN=WFDC2 PE=1 SV=1	21	3	20	3	169	17.6	2917731726	
+High	A0AAA9S249	Slit guidance ligand 3 OS=Bos taurus OX=9913 GN=SLIT3 PE=4 SV=1	22	25	26	25	1549	169.8	14782074.38	
+High	A0A3Q1NDQ7	Beta-galactosidase OS=Bos taurus OX=9913 GN=GLB1 PE=3 SV=2	34	16	28	2	655	73.6	56453710.44	
+High	Q3ZBH0	T-complex protein 1 subunit beta OS=Bos taurus OX=9913 GN=CCT2 PE=1 SV=3	51	21	21	21	535	57.4	35618604	Met-loss+Acetyl [N-Term]
+High	P06833	Caltrin OS=Bos taurus OX=9913 GN=PYY2 PE=1 SV=2	21	3	84	3	80	9	3049229759	
+High	P01000	Acrosin inhibitor 1 OS=Bos taurus OX=9913 PE=1 SV=1	100	5	25	5	63	7.4	1444614863	
+High	Q95M18	Endoplasmin OS=Bos taurus OX=9913 GN=HSP90B1 PE=2 SV=1	36	25	27	25	804	92.4	51694945.16	
+High	Q9BGI1	Peroxiredoxin-5, mitochondrial OS=Bos taurus OX=9913 GN=PRDX5 PE=2 SV=2	52	8	23	8	219	23.2	58303034.45	
+High	P0CB32	Heat shock 70 kDa protein 1-like OS=Bos taurus OX=9913 GN=HSPA1L PE=3 SV=1	39	18	24	14	641	70.3	23711559.44	
+High	P28291	C-C motif chemokine 2 OS=Bos taurus OX=9913 GN=CCL2 PE=3 SV=1	33	4	27	4	99	11.1	3342555336	
+High	Q3ZCH5	Zinc-alpha-2-glycoprotein OS=Bos taurus OX=9913 GN=AZGP1 PE=2 SV=1	42	12	22	12	299	33.8	34773845.69	
+High	Q9MYM4	Lysosomal alpha-glucosidase OS=Bos taurus OX=9913 GN=GAA PE=2 SV=1	33	21	27	21	937	104.7	29417590.63	
+High	A0AAF7AFD7	EH domain-containing protein 1 OS=Bos taurus OX=9913 GN=EHD1 PE=4 SV=1	51	19	23	18	551	62.3	35725808.22	
+High	F1N2F2	Phosphoglycerate mutase OS=Bos taurus OX=9913 GN=PGAM2 PE=3 SV=2	52	12	22	12	253	28.7	79739319.63	
+High	Q2NKZ1	T-complex protein 1 subunit eta OS=Bos taurus OX=9913 GN=CCT7 PE=1 SV=1	45	18	21	18	543	59.4	20423300.97	Acetyl [N-Term]
+High	E1BHY6	Progranulin OS=Bos taurus OX=9913 GN=GRN PE=3 SV=4	40	15	17	15	597	64.3	33409994.94	
+High	E1BLI4	CUB domain-containing protein OS=Bos taurus OX=9913 GN=LOC100295703 PE=4 SV=4	45	5	28	5	145	16.3	490261755.3	
+High	Q3SZB7	Fructose-1,6-bisphosphatase 1 OS=Bos taurus OX=9913 GN=FBP1 PE=2 SV=3	68	15	19	15	338	36.7	48099359.13	Met-loss+Acetyl [N-Term]
+High	Q58D55	Beta-galactosidase OS=Bos taurus OX=9913 GN=GLB1 PE=2 SV=1	32	15	25	1	653	73.4	6123999	
+High	A0A3Q1MDA4	Dystroglycan 1 OS=Bos taurus OX=9913 GN=DAG1 PE=4 SV=2	14	9	13	9	1121	121.7	77426072.75	
+High	P10152	Angiogenin-1 OS=Bos taurus OX=9913 GN=ANG1 PE=1 SV=4	51	8	23	8	148	17	441278771.8	
+High	P63103	14-3-3 protein zeta/delta OS=Bos taurus OX=9913 GN=YWHAZ PE=1 SV=1	56	13	18	9	245	27.7	45105679.88	
+High	E1BNS9	L-lactate dehydrogenase OS=Bos taurus OX=9913 GN=LDHC PE=3 SV=2	63	15	19	13	332	36	20391799.44	
+High	F1N0E5	T-complex protein 1 subunit delta OS=Bos taurus OX=9913 GN=CCT4 PE=1 SV=2	39	15	15	15	542	58.1	17545286.81	
+High	P80311	Peptidyl-prolyl cis-trans isomerase B OS=Bos taurus OX=9913 GN=PPIB PE=1 SV=4	51	12	22	12	216	23.7	313923567.8	
+High	E1B9P4	Epididymal sperm-binding protein 1 OS=Bos taurus OX=9913 GN=ELSPBP1 PE=3 SV=1	59	12	21	12	223	26	112996416.5	
+High	Q0VCQ9	Reticulocalbin-2 OS=Bos taurus OX=9913 GN=RCN2 PE=2 SV=1	67	11	13	11	317	36.9	22858408.97	
+High	A0A3S5ZPF0	hexokinase OS=Bos taurus OX=9913 GN=HK1 PE=1 SV=1	28	21	22	21	916	101.7	14882591.13	
+High	A5PJL8	C1QTNF5 protein OS=Bos taurus OX=9913 GN=C1QTNF5 PE=2 SV=1	57	9	14	9	243	25.3	81201497.81	
+High	E1BHP0	Alpha-mannosidase OS=Bos taurus OX=9913 GN=LOC523503 PE=3 SV=4	22	17	20	12	988	113	27067138.19	
+High	A0AAA9RYC1	Beta-defensin 1 OS=Bos taurus OX=9913 PE=3 SV=1	43	5	19	3	69	7.4	2073489390	
+High	A0A3Q1LTS9	Serpin domain-containing protein OS=Bos taurus OX=9913 GN=LOC522479 PE=3 SV=1	57	15	19	15	384	42.7	21812129.44	Acetyl [N-Term]
+High	Q3MI05	Lysosomal protective protein OS=Bos taurus OX=9913 GN=CTSA PE=2 SV=1	29	11	19	11	479	53.9	41143139.81	
+High	Q2TBX4	Heat shock 70 kDa protein 13 OS=Bos taurus OX=9913 GN=HSPA13 PE=2 SV=1	30	13	17	13	471	51.9	54210504.06	
+High	A0AAA9SF39	Ig-like domain-containing protein OS=Bos taurus OX=9913 PE=1 SV=1	74	5	24	5	106	11.3	47135468	
+High	A0A452DIP5	Placenta-expressed transcript 1 protein OS=Bos taurus OX=9913 GN=PLET1 PE=4 SV=1	23	4	23	4	275	30.2	68023524.13	
+High	Q3MHL7	T-complex protein 1 subunit zeta OS=Bos taurus OX=9913 GN=CCT6A PE=1 SV=3	39	16	19	10	531	57.9	18439966.53	
+High	F1MX50	Cellular repressor of E1A stimulateds 1 OS=Bos taurus OX=9913 GN=CREG1 PE=1 SV=1	56	7	15	7	221	23.9	45295439.38	
+High	E1B7S8	Acrosin-binding protein OS=Bos taurus OX=9913 GN=ACRBP PE=4 SV=2	34	11	17	11	542	61.2	28599488.88	
+High	Q2KIM0	Tissue alpha-L-fucosidase OS=Bos taurus OX=9913 GN=FUCA1 PE=2 SV=1	43	14	16	14	468	54.1	25395573.63	
+High	F1N6Y1	Neutral alpha-glucosidase AB OS=Bos taurus OX=9913 GN=GANAB PE=1 SV=1	30	20	20	20	966	109.4	14389137.19	
+High	F1MHF1	Beta-galactoside alpha-2,6-sialyltransferase 1 OS=Bos taurus OX=9913 GN=ST6GAL1 PE=3 SV=3	38	14	15	14	405	46.2	54002195.38	
+High	A0AAA9SUW3	Prostaglandin-H2 D-isomerase OS=Bos taurus OX=9913 GN=PTGDS PE=1 SV=1	11	3	18	3	254	27.1	37714650.5	
+High	A0AAA9T0J6	Ig-like domain-containing protein OS=Bos taurus OX=9913 PE=1 SV=2	32	9	26	9	364	40.5	27060330.31	
+High	A0AAF6Z3H7	Cathepsin S OS=Bos taurus OX=9913 GN=CTSS PE=3 SV=1	44	11	15	11	382	43	49515941.38	
+High	F6RP72	Tubulin alpha chain OS=Bos taurus OX=9913 GN=LOC100295712 PE=3 SV=2	42	13	14	13	458	50.9	17728628.13	
+High	F1MWT0	alpha-mannosidase OS=Bos taurus OX=9913 GN=MAN2C1 PE=3 SV=3	24	18	21	18	1008	112.2	16527112.81	
+High	Q58CQ9	Pantetheinase OS=Bos taurus OX=9913 GN=VNN1 PE=1 SV=1	38	13	16	13	510	56.9	34559039.38	
+High	P81134	Renin receptor OS=Bos taurus OX=9913 GN=ATP6AP2 PE=1 SV=2	42	11	16	11	351	39.5	28752323.63	
+High	E1BDN9	FAM3 metabolism regulating signaling molecule D OS=Bos taurus OX=9913 GN=FAM3D PE=3 SV=4	47	8	14	8	223	25	24348221.5	
+High	Q3MHX6	Protein OS-9 OS=Bos taurus OX=9913 GN=OS9 PE=2 SV=1	34	16	19	16	667	75.7	28421357.75	
+High	Q58D31	Sorbitol dehydrogenase OS=Bos taurus OX=9913 GN=SORD PE=1 SV=3	44	9	12	9	356	38.1	11405697.31	Met-loss+Acetyl [N-Term]
+High	A0AAA9TCM1	Beta-defensin 1 OS=Bos taurus OX=9913 PE=3 SV=1	32	4	14	2	69	7.5	342088768	
+High	F1MLW2	BPI fold containing family B member 1 OS=Bos taurus OX=9913 GN=BPIFB1 PE=4 SV=1	34	13	14	13	473	51.7	17367398.13	
+High	Q95M12	Legumain OS=Bos taurus OX=9913 GN=LGMN PE=1 SV=1	34	11	11	11	433	49.3	27376130	
+High	Q3MHM5	Tubulin beta-4B chain OS=Bos taurus OX=9913 GN=TUBB4B PE=1 SV=1	38	12	12	12	445	49.8	15637378.56	
+High	Q9BGI2	Peroxiredoxin-4 OS=Bos taurus OX=9913 GN=PRDX4 PE=2 SV=1	51	9	12	7	274	30.7	19054915	
+High	A0ABI0NJH4	N-acetylglucosamine-6-sulfatase OS=Bos taurus OX=9913 GN=GNS PE=3 SV=1	33	13	13	13	552	61.9	31283587.88	
+High	F1N554	Polypeptide N-acetylgalactosaminyltransferase OS=Bos taurus OX=9913 GN=GALNT10 PE=3 SV=5	28	12	13	11	603	68.9	23496157	
+High	F6PYA5	Low-density lipoprotein receptor-related protein 8 OS=Bos taurus OX=9913 GN=LRP8 PE=3 SV=3	13	10	12	10	957	105.1	16391944.75	
+High	A0AAA9TR62	Agrin OS=Bos taurus OX=9913 GN=AGRN PE=1 SV=1	14	22	22	22	2047	216.8	8502421.125	
+High	F1MNJ4	Protein APCDD1 OS=Bos taurus OX=9913 GN=APCDD1 PE=3 SV=2	27	9	9	9	515	58.1	23095074.81	
+High	P38657	Protein disulfide-isomerase A3 OS=Bos taurus OX=9913 GN=PDIA3 PE=2 SV=1	37	17	17	17	505	56.9	19942131.25	
+High	A0A3Q1MLQ6	Amyloid-beta A4 protein OS=Bos taurus OX=9913 GN=APP PE=3 SV=1	20	13	13	12	752	85	13042451.38	
+High	P00442	Superoxide dismutase [Cu-Zn] OS=Bos taurus OX=9913 GN=SOD1 PE=1 SV=2	77	6	11	6	152	15.7	25845549.84	
+High	A0A3Q1M1V3	Kazal-like domain-containing protein OS=Bos taurus OX=9913 GN=LOC100296105 PE=4 SV=1	55	6	9	6	144	16	57573156.21	
+High	F1MGY9	N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase OS=Bos taurus OX=9913 GN=AGA PE=3 SV=2	37	9	10	9	346	36.9	22262174.13	
+High	P45478	Palmitoyl-protein thioesterase 1 OS=Bos taurus OX=9913 GN=PPT1 PE=1 SV=1	40	8	8	8	306	34.1	15118651.75	
+High	A0A3Q1N2R6	Lipocalin/cytosolic fatty-acid binding domain-containing protein OS=Bos taurus OX=9913 GN=LOC511158 PE=3 SV=2	49	5	9	5	173	19.1	16995424	
+High	A0A3Q1MF93	NAD(P)(+)--arginine ADP-ribosyltransferase OS=Bos taurus OX=9913 GN=LOC407148 PE=3 SV=1	17	6	16	1	309	34	16587338.19	
+High	F1MTV1	Hyaluronidase OS=Bos taurus OX=9913 GN=SPAM1 PE=3 SV=1	24	10	12	10	553	62.2	12886287.25	
+High	P05307	Protein disulfide-isomerase OS=Bos taurus OX=9913 GN=P4HB PE=1 SV=1	36	15	16	15	510	57.2	14519749.34	
+High	F1MVI0	Contactin-1 OS=Bos taurus OX=9913 GN=CNTN1 PE=3 SV=1	19	13	13	13	1018	113.2	9280234.375	
+High	A0AAA9T8T5	Synaptogyrin 4 OS=Bos taurus OX=9913 GN=SYNGR4 PE=3 SV=1	31	7	7	1	431	46.4	3980668.25	
+High	P61823	Ribonuclease pancreatic OS=Bos taurus OX=9913 GN=RNASE1 PE=1 SV=1	63	6	25	4	150	16.5	28107584.25	
+High	Q5EA62	Fibulin-5 OS=Bos taurus OX=9913 GN=FBLN5 PE=2 SV=1	26	11	13	11	448	50.1	32365282.25	
+High	P02702	Folate receptor alpha OS=Bos taurus OX=9913 GN=FOLR1 PE=1 SV=3	37	6	8	3	241	27.9	7523469.5	
+High	P40682	V-type proton ATPase subunit S1 OS=Bos taurus OX=9913 GN=ATP6AP1 PE=1 SV=1	24	6	7	6	468	51.7	18649840.13	
+High	A5PKI3	Protein FAM3C OS=Bos taurus OX=9913 GN=FAM3C PE=2 SV=1	60	12	14	12	227	24.8	9996179.938	
+High	P68138	Actin, alpha skeletal muscle OS=Bos taurus OX=9913 GN=ACTA1 PE=1 SV=1	28	9	14	1	377	42	3661949.5	
+High	A0A3Q1MRP4	Folate receptor alpha OS=Bos taurus OX=9913 GN=FOLR1 PE=3 SV=1	33	6	8	3	251	29	7629779	
+High	A0AAA9TWF6	Ribonuclease T2 OS=Bos taurus OX=9913 GN=RNASET2 PE=3 SV=1	31	7	8	7	267	30.5	15519845.63	
+High	P01035	Cystatin-C OS=Bos taurus OX=9913 GN=CST3 PE=1 SV=2	43	3	18	3	148	16.3	16766340.17	
+High	A7MBJ5	Cullin-associated NEDD8-dissociated protein 1 OS=Bos taurus OX=9913 GN=CAND1 PE=2 SV=1	19	18	18	18	1230	136.3	13283967.63	Met-loss+Acetyl [N-Term]
+High	A6QLY7	Pre-B-cell leukemia transcription factor-interacting protein 1 OS=Bos taurus OX=9913 GN=PBXIP1 PE=2 SV=1	19	11	12	11	727	80.2	3490862.781	
+High	Q2YDD6	Synaptogyrin-4 OS=Bos taurus OX=9913 GN=SYNGR4 PE=2 SV=1	47	7	7	1	234	25.4	888973.75	Acetyl [N-Term]
+High	P02070	Hemoglobin subunit beta OS=Bos taurus OX=9913 GN=HBB PE=1 SV=1	72	9	10	9	145	15.9	15476051.56	
+High	A0A3Q1M7E3	Glutathione peroxidase OS=Bos taurus OX=9913 GN=GPX5 PE=3 SV=1	43	8	12	7	219	25.1	92506237.38	
+High	Q3T084	Probable T-complex protein 1 subunit zeta-2 OS=Bos taurus OX=9913 GN=CCT6B PE=2 SV=3	27	10	12	4	531	58	2857357.938	
+High	Q10741	Disintegrin and metalloproteinase domain-containing protein 10 OS=Bos taurus OX=9913 GN=ADAM10 PE=1 SV=1	33	15	17	15	748	84.1	20892205.28	
+High	G3MX67	Protein LEG1 homolog OS=Bos taurus OX=9913 GN=LOC101907989 PE=4 SV=2	37	11	12	11	355	40.8	58546143	
+High	G3MXB5	Ig-like domain-containing protein OS=Bos taurus OX=9913 GN=LOC524810 PE=1 SV=4	32	9	11	9	442	47.1	10663152.38	
+High	G5E5C6	Acrosin OS=Bos taurus OX=9913 GN=ACR PE=3 SV=2	28	9	11	9	414	45.5	25360501.44	
+High	P09487	Alkaline phosphatase, tissue-nonspecific isozyme OS=Bos taurus OX=9913 GN=ALPL PE=1 SV=2	31	10	12	10	524	57.2	13183933.69	
+High	F1N5W4	Ectonucleotide pyrophosphatase/phosphodiesterase family member 5 OS=Bos taurus OX=9913 GN=ENPP5 PE=3 SV=3	23	7	11	7	477	54.2	11585500.47	
+High	P31976	Ezrin OS=Bos taurus OX=9913 GN=EZR PE=1 SV=2	29	16	17	16	581	68.7	16289612.25	
+High	A7MB70	Semaphorin-3C OS=Bos taurus OX=9913 GN=SEMA3C PE=2 SV=1	20	11	12	11	751	85.2	13649011.5	
+High	O62827	Pro-adrenomedullin OS=Bos taurus OX=9913 GN=ADM PE=2 SV=2	29	5	12	5	188	21	86537013.5	
+High	A0AAF6YUC8	Glycerol-3-phosphate phosphatase OS=Bos taurus OX=9913 GN=PGP PE=3 SV=1	36	10	10	10	398	42.1	11256897.25	
+High	A4IF76	MGC140461 protein OS=Bos taurus OX=9913 GN=MGC140461 PE=2 SV=1	38	6	8	6	218	24.4	38216642	
+High	A0A3Q1LQY1	Ciliary neurotrophic factor receptor subunit alpha OS=Bos taurus OX=9913 GN=CNTFR PE=3 SV=2	28	6	9	6	372	40.7	14945163.81	
+High	F1MIH9	Phospholipase B-like OS=Bos taurus OX=9913 GN=PLBD2 PE=3 SV=2	20	10	10	10	589	65.7	17281990	
+High	E1BC47	Cysteine rich secretory protein 1 OS=Bos taurus OX=9913 GN=CRISP1 PE=3 SV=1	24	4	7	4	247	28.1	12391858.5	
+High	F1MUP9	Synaptic vesicle membrane protein VAT-1 homolog OS=Bos taurus OX=9913 GN=VAT1 PE=1 SV=3	33	8	9	8	402	42.8	2668696.313	
+High	P15396	Ectonucleotide pyrophosphatase/phosphodiesterase family member 3 OS=Bos taurus OX=9913 GN=ENPP3 PE=1 SV=2	17	12	12	12	874	99.5	8534924.375	
+High	A6BMK7	Sialidase-1 OS=Bos taurus OX=9913 GN=NEU1 PE=2 SV=2	30	9	11	9	415	45.4	9461165.344	
+High	A0A3Q1MR28	EF-hand domain-containing protein OS=Bos taurus OX=9913 PE=3 SV=1	56	6	8	6	149	16.9	14334290.06	Met-loss+Acetyl [N-Term]
+High	A0AAA9T0U8	Beta-microseminoprotein OS=Bos taurus OX=9913 GN=MSMB PE=3 SV=1	51	5	11	5	111	12.3	284875030.7	
+High	Q3SX46	C1GALT1-specific chaperone 1 OS=Bos taurus OX=9913 GN=C1GALT1C1 PE=2 SV=1	29	9	9	9	318	36.4	13326952.94	
+High	Q28120	Glutaminyl-peptide cyclotransferase OS=Bos taurus OX=9913 GN=QPCT PE=1 SV=1	40	9	11	9	361	41.2	9573113.094	
+High	F1N226	Amyloid beta precursor like protein 2 OS=Bos taurus OX=9913 GN=APLP2 PE=3 SV=3	16	10	10	9	767	87.1	7169684.047	
+High	Q17QK3	Carboxypeptidase Q OS=Bos taurus OX=9913 GN=CPQ PE=2 SV=1	33	10	10	10	472	51.6	4382624.094	
+High	Q3T145	Malate dehydrogenase, cytoplasmic OS=Bos taurus OX=9913 GN=MDH1 PE=1 SV=3	42	7	7	7	334	36.4	4165115.938	
+High	Q0VCU3	Cathepsin F OS=Bos taurus OX=9913 GN=CTSF PE=2 SV=1	31	13	13	13	460	50.9	7723463.063	
+High	Q3SYW2	Complement C2 OS=Bos taurus OX=9913 GN=C2 PE=2 SV=1	16	11	11	11	750	82.9	8696987.688	
+High	F1N026	Integral membrane protein 2 OS=Bos taurus OX=9913 GN=ITM2B PE=3 SV=1	30	6	10	6	266	30.4	4412146.313	
+High	A3KMY8	Beta-glucuronidase OS=Bos taurus OX=9913 GN=GUSB PE=2 SV=1	21	12	13	12	652	74.4	10469592.13	
+High	A0AAF6ZLE3	Glutathione peroxidase OS=Bos taurus OX=9913 GN=GPX3 PE=3 SV=1	29	5	9	5	226	25.6	113580138.5	
+High	Q17QB3	Acid ceramidase OS=Bos taurus OX=9913 GN=ASAH1 PE=2 SV=3	27	10	12	10	395	44.9	18455857.88	
+High	A0AAA9TCV4	Milk fat globule EGF and factor V/VIII domain containing OS=Bos taurus OX=9913 GN=MFGE8 PE=4 SV=1	37	13	13	13	388	43.1	17300602.88	
+High	Q2HJH1	Aspartyl aminopeptidase OS=Bos taurus OX=9913 GN=DNPEP PE=1 SV=1	27	9	9	9	471	51.8	9945702.313	
+High	E1BDR2	Alpha-L-iduronidase OS=Bos taurus OX=9913 GN=IDUA PE=3 SV=2	21	12	12	12	651	72.3	6251857.5	
+High	A0AAA9TRE6	Huntingtin-interacting protein 1 OS=Bos taurus OX=9913 GN=HIP1 PE=3 SV=1	15	12	12	12	1004	112.8	5539421.781	
+High	P15497	Apolipoprotein A-I OS=Bos taurus OX=9913 GN=APOA1 PE=1 SV=3	40	9	10	9	265	30.3	5045979.5	
+High	A0AAA9SPR0	Reticulon 4 receptor OS=Bos taurus OX=9913 GN=RTN4R PE=3 SV=1	25	10	10	10	473	50.4	20479664.63	
+High	P13696	Phosphatidylethanolamine-binding protein 1 OS=Bos taurus OX=9913 GN=PEBP1 PE=1 SV=2	52	8	8	8	187	21	12911999.25	
+High	Q3SZV7	Hemopexin OS=Bos taurus OX=9913 GN=HPX PE=2 SV=1	27	9	10	9	459	52.2	45117326.38	
+High	F1N5T0	Protein CutA OS=Bos taurus OX=9913 GN=CUTA PE=3 SV=2	24	3	4	3	246	26.3	11818219.25	
+High	P01966	Hemoglobin subunit alpha OS=Bos taurus OX=9913 GN=HBA PE=1 SV=2	52	5	5	5	142	15.2	14048956.88	
+High	G3MXZ7	Alpha-N-acetylglucosaminidase OS=Bos taurus OX=9913 GN=NAGLU PE=3 SV=1	22	11	13	11	741	82.5	5350586.125	
+High	A0A3Q1M5N9	Olfactomedin like 2A OS=Bos taurus OX=9913 GN=OLFML2A PE=4 SV=2	14	8	8	8	655	73.6	5176772.563	
+High	E1BI28	Ganglioside GM2 activator OS=Bos taurus OX=9913 GN=GM2A PE=4 SV=3	31	5	8	5	183	19.7	22380169.25	
+High	A0AAA9S9X4	hyaluronoglucosaminidase OS=Bos taurus OX=9913 GN=CEMIP PE=3 SV=1	15	16	16	16	1360	152.5	7320706.281	
+High	A0ABI0NJ70	Fructose-bisphosphate aldolase OS=Bos taurus OX=9913 GN=ALDOA PE=1 SV=1	28	10	10	10	445	48.1	11963722.25	
+High	A0AAA9S0T2	Serpin family F member 2 OS=Bos taurus OX=9913 GN=SERPINF2 PE=1 SV=1	26	8	9	8	530	59.1	2160092.5	
+High	P52193	Calreticulin OS=Bos taurus OX=9913 GN=CALR PE=1 SV=2	43	12	13	12	417	48	36017871	
+High	Q0VD19	Sphingomyelin phosphodiesterase OS=Bos taurus OX=9913 GN=SMPD1 PE=2 SV=1	19	9	10	9	625	69.3	7443888.406	
+High	F1MWI1	Clusterin OS=Bos taurus OX=9913 PE=3 SV=5	9	3	8	1	416	46.3	12462977	
+High	A0A3Q1M3L6	Ig-like domain-containing protein OS=Bos taurus OX=9913 PE=1 SV=3	33	8	10	8	425	46.1	36845524.88	
+High	F1MHN8	CD166 antigen OS=Bos taurus OX=9913 GN=ALCAM PE=4 SV=3	14	6	6	6	583	64.7	5556602.188	
+High	Q3ZC64	Ephrin-A1 OS=Bos taurus OX=9913 GN=EFNA1 PE=2 SV=1	26	4	20	4	205	23.8	318635839	
+High	A6QLI0	Mammalian ependymin-related protein 1 OS=Bos taurus OX=9913 GN=EPDR1 PE=2 SV=1	30	6	7	6	236	26.5	16664704.5	
+High	A6QPN6	Gamma-interferon-inducible lysosomal thiol reductase OS=Bos taurus OX=9913 GN=IFI30 PE=2 SV=1	30	5	5	5	244	27.5	15326945.25	
+High	A0AAF7A7H1	Alpha-mannosidase OS=Bos taurus OX=9913 GN=MAN2B1 PE=3 SV=1	16	11	13	11	1046	117.4	8993451.188	
+High	P00570	Adenylate kinase isoenzyme 1 OS=Bos taurus OX=9913 GN=AK1 PE=1 SV=2	41	8	8	8	194	21.7	14228400.75	
+High	Q3T077	Tubulin polymerization-promoting protein family member 2 OS=Bos taurus OX=9913 GN=TPPP2 PE=2 SV=1	40	6	6	6	171	18.6	15330790.38	
+High	F1MD77	Laminin subunit gamma-1 OS=Bos taurus OX=9913 GN=LAMC1 PE=1 SV=2	7	9	9	9	1608	177.6	2070208.094	
+High	P39873	Brain ribonuclease OS=Bos taurus OX=9913 GN=BRN PE=1 SV=3	35	5	18	3	167	18.4	7673110.688	
+High	A0AAA9SE69	Iduronate 2-sulfatase OS=Bos taurus OX=9913 GN=IDS PE=3 SV=1	17	7	8	7	547	61.1	6952384.766	
+High	E1BM47	Maestro heat like repeat family member 2B OS=Bos taurus OX=9913 GN=MROH2B PE=4 SV=3	16	19	20	19	1586	180.7	7259559.125	
+High	F1MKH8	72 kDa type IV collagenase OS=Bos taurus OX=9913 GN=MMP2 PE=3 SV=1	26	11	11	1	661	73.8		
+High	A1L570	Ephrin-B1 OS=Bos taurus OX=9913 GN=EFNB1 PE=2 SV=1	22	5	6	5	346	38	7505417.688	
+High	Q08DL0	SLC3A2 protein OS=Bos taurus OX=9913 GN=SLC3A2 PE=1 SV=1	15	7	7	7	572	63.1	8570142.125	
+High	A0AAA9S1T1	Sodium/potassium-transporting ATPase subunit alpha OS=Bos taurus OX=9913 GN=ATP1A4 PE=3 SV=1	13	12	12	12	1030	113.7	3683093.031	
+High	Q0V8R6	Beta-hexosaminidase subunit alpha OS=Bos taurus OX=9913 GN=HEXA PE=2 SV=1	16	10	11	9	529	60.3	8846431.938	
+High	A0AAA9TPD0	tryptase OS=Bos taurus OX=9913 GN=PRSS8 PE=4 SV=1	18	4	4	4	345	37	19813305.75	
+High	Q58DK4	Triokinase/FMN cyclase OS=Bos taurus OX=9913 GN=TKFC PE=2 SV=1	22	7	7	7	578	59.1	2917422.375	
+High	A6H6X2	ANG2 protein OS=Bos taurus OX=9913 GN=ANG2 PE=2 SV=1	40	5	7	5	147	17.1	16063553.63	
+High	F6RY34	Nudix hydrolase 9 OS=Bos taurus OX=9913 GN=NUDT9 PE=4 SV=1	15	5	7	5	350	38.7	8505577.75	
+High	Q5E946	Parkinson disease protein 7 homolog OS=Bos taurus OX=9913 GN=PARK7 PE=2 SV=1	33	7	7	7	189	20	13008598.63	
+High	Q3ZCL0	Cysteine-rich secretory protein 2 OS=Bos taurus OX=9913 GN=CRISP3 PE=2 SV=1	48	6	6	6	244	27.4	21133462.63	
+High	A0A3S5ZPC1	Synaptophysin like 1 OS=Bos taurus OX=9913 GN=SYPL1 PE=3 SV=2	27	5	6	5	297	32.3	11059468.25	
+High	Q2KJD2	Vesicle-associated membrane protein 3 OS=Bos taurus OX=9913 GN=VAMP3 PE=3 SV=1	55	4	5	4	104	11.5	5313471	Met-loss+Acetyl [N-Term]
+High	F1MFI4	Cartilage acidic protein 1 OS=Bos taurus OX=9913 GN=CRTAC1 PE=4 SV=4	14	6	6	6	656	70.8	1727412.188	
+High	P31408	V-type proton ATPase subunit B, brain isoform OS=Bos taurus OX=9913 GN=ATP6V1B2 PE=1 SV=3	23	8	10	8	511	56.5	1431580.75	
+High	A0A3Q1LR38	Cysteine-rich motor neuron 1 protein OS=Bos taurus OX=9913 GN=CRIM1 PE=4 SV=2	10	10	10	10	1035	113.8	5247128.969	
+High	A0AAA9U165	Semaphorin 3F OS=Bos taurus OX=9913 GN=SEMA3F PE=3 SV=1	16	11	11	11	785	88.5	6965742.875	
+High	F1MJM4	Biotinidase OS=Bos taurus OX=9913 GN=BTD PE=3 SV=2	17	7	7	7	525	58.3	14142302.47	
+High	P30932	CD9 antigen OS=Bos taurus OX=9913 GN=CD9 PE=2 SV=2	24	4	6	4	226	25.2	19392602.5	
+High	A0AAA9TU35	DnaJ homolog subfamily C member 3 OS=Bos taurus OX=9913 GN=DNAJC3 PE=4 SV=2	21	11	11	11	504	57.7	6634630.75	
+High	Q2KIV8	Glutathione S-transferase OS=Bos taurus OX=9913 GN=GSTM3 PE=1 SV=1	40	9	11	8	225	26.8	6581448.188	
+High	E1BGB7	Uncharacterized protein OS=Bos taurus OX=9913 GN=LOC613282 PE=3 SV=3	20	10	10	10	703	78.9	6469986.125	
+High	Q32LB5	GLIPR1-like protein 1 OS=Bos taurus OX=9913 GN=GLIPR1L1 PE=1 SV=1	28	7	8	7	241	27.1	22350533.31	
+High	A0AAF6DLT4	CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 1 OS=Bos taurus OX=9913 GN=ST3GAL1 PE=3 SV=1	29	8	8	8	342	39.3	11534331.38	
+High	A5D7D5	Matrilin-2 OS=Bos taurus OX=9913 GN=MATN2 PE=2 SV=1	9	8	10	8	958	106.8	4002681	
+High	Q70IB2	Inactive ribonuclease-like protein 10 OS=Bos taurus OX=9913 GN=RNASE10 PE=2 SV=2	40	6	6	6	211	23.3	5062892.188	
+High	F1N5H2	Alpha-L-fucosidase OS=Bos taurus OX=9913 GN=FUCA2 PE=3 SV=2	27	10	10	10	465	53.3	5474968.375	
+High	P31404	V-type proton ATPase catalytic subunit A OS=Bos taurus OX=9913 GN=ATP6V1A PE=1 SV=2	16	8	8	8	617	68.3	1909060.609	
+High	F6RJ01	Trans-golgi network protein 2 OS=Bos taurus OX=9913 PE=4 SV=3	18	5	6	5	345	37	11141481.44	
+High	A0JN47	Plexin domain containing 2 OS=Bos taurus OX=9913 GN=PLXDC2 PE=2 SV=1	11	5	7	5	531	59.4	7919213.984	
+High	Q9GLE5	72 kDa type IV collagenase OS=Bos taurus OX=9913 GN=MMP2 PE=2 SV=1	22	11	11	1	661	73.7	3493229.188	
+High	P00974	Pancreatic trypsin inhibitor OS=Bos taurus OX=9913 PE=1 SV=2	26	3	7	3	100	10.9	19735359.5	
+High	F1MR22	Polymeric immunoglobulin receptor OS=Bos taurus OX=9913 GN=PIGR PE=4 SV=3	17	10	10	1	757	82.6	3177743.813	
+High	A7E3S8	Heat shock 70kD protein binding protein OS=Bos taurus OX=9913 GN=ST13 PE=1 SV=1	16	6	6	6	369	41.4	3210814.516	
+High	P81265	Polymeric immunoglobulin receptor OS=Bos taurus OX=9913 GN=PIGR PE=2 SV=1	17	10	10	1	757	82.4		
+High	F1N0F2	Sialate O-acetylesterase OS=Bos taurus OX=9913 GN=SIAE PE=4 SV=2	17	8	9	8	661	73.4	11652503.53	
+High	E1B8A0	Tartrate-resistant acid phosphatase type 5 OS=Bos taurus OX=9913 GN=ACP5 PE=2 SV=2	22	5	5	5	343	38.2	2504547.375	
+High	Q1ZYR0	Bis(monoacylglycero)phosphate synthase CLN5 OS=Bos taurus OX=9913 GN=CLN5 PE=2 SV=1	18	6	6	6	358	41.2	9317478.375	
+High	G3N2D8	Glutathione hydrolase OS=Bos taurus OX=9913 GN=GGT1 PE=1 SV=2	18	6	6	6	568	60.8	2074587.563	
+High	F1MU34	Aminopeptidase OS=Bos taurus OX=9913 GN=ERAP1 PE=3 SV=1	13	10	10	10	942	107	6367656.438	
+High	F1MY79	Semaphorin-4A OS=Bos taurus OX=9913 GN=SEMA4A PE=3 SV=3	21	12	12	12	745	81.7	5160621.844	
+High	A0AAA9TRA8	FAM3 metabolism regulating signaling molecule B OS=Bos taurus OX=9913 GN=FAM3B PE=3 SV=1	31	6	6	6	250	28	7441389.938	
+High	F1N152	Serine protease HTRA1 OS=Bos taurus OX=9913 GN=HTRA1 PE=2 SV=1	27	8	8	8	487	51.9	5880829.656	
+High	A0AAA9TZ84	Calumenin OS=Bos taurus OX=9913 GN=CALU PE=1 SV=2	18	5	5	5	323	37.9	13332499.88	
+High	Q3ZBT1	Transitional endoplasmic reticulum ATPase OS=Bos taurus OX=9913 GN=VCP PE=2 SV=1	17	8	11	8	806	89.3	2402443.5	
+High	P0CH28	Polyubiquitin-C OS=Bos taurus OX=9913 GN=UBC PE=1 SV=1	56	4	7	4	690	77.5	45464032.44	
+High	F1MYX5	Lymphocyte cytosolic protein 1 OS=Bos taurus OX=9913 GN=LCP1 PE=1 SV=2	18	10	10	10	631	70.6	6442913.875	
+High	A8YXY3	Selenoprotein F OS=Bos taurus OX=9913 GN=SELENOF PE=2 SV=2	35	3	4	3	162	18	2685516.438	
+High	F1MPT2	Glycoside hydrolase family 38 central domain-containing protein OS=Bos taurus OX=9913 GN=LOC781835 PE=3 SV=5	6	5	6	1	964	109.8	3216821.75	
+High	A0AAA9S1H3	ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase OS=Bos taurus OX=9913 GN=ABO PE=3 SV=1	10	5	6	5	580	65	1631518.375	
+High	A0A3Q1MTZ4	Adhesion G protein-coupled receptor G6 OS=Bos taurus OX=9913 GN=ADGRG6 PE=3 SV=3	6	5	5	5	1249	139.3	3214086.5	
+High	E1BFX4	N-sulfoglucosamine sulfohydrolase OS=Bos taurus OX=9913 GN=SGSH PE=3 SV=2	22	9	9	9	510	57.8	3198815.125	
+High	A0AAA9SMB4	ATP binding cassette subfamily C member 4 OS=Bos taurus OX=9913 GN=LOC100847574 PE=4 SV=2	8	9	9	8	1211	136	3557869.25	
+High	Q3MHP2	Ras-related protein Rab-11B OS=Bos taurus OX=9913 GN=RAB11B PE=2 SV=3	34	7	8	7	218	24.5	7041081.25	
+High	Q8SQ21	Adenosine 5'-monophosphoramidase HINT2 OS=Bos taurus OX=9913 GN=HINT2 PE=2 SV=1	54	6	6	6	163	17.1	6306005.125	
+High	P07224	Vitamin K-dependent protein S OS=Bos taurus OX=9913 GN=PROS1 PE=1 SV=1	15	9	9	9	675	75.1	12300003.81	
+High	A0AAA9T669	Cullin-3 OS=Bos taurus OX=9913 GN=CUL3 PE=3 SV=1	12	8	9	8	806	93.2	4967044.5	
+High	A0AAA9T679	Serine peptidase inhibitor, Kunitz type 4 OS=Bos taurus OX=9913 GN=SPINT4 PE=4 SV=1	23	2	3	2	98	11.3	14182274	
+High	Q148F3	Arylsulfatase K OS=Bos taurus OX=9913 GN=ARSK PE=2 SV=1	16	5	6	5	540	61.3	2585274	
+High	F1MQ45	Solute carrier organic anion transporter family member OS=Bos taurus OX=9913 GN=SLCO2A1 PE=3 SV=1	10	4	4	4	644	70.4	2503770.625	
+High	P80724	Brain acid soluble protein 1 OS=Bos taurus OX=9913 GN=BASP1 PE=1 SV=3	29	5	6	5	227	23	3040894.5	
+High	A0A3Q1MSS6	Cadherin-1 OS=Bos taurus OX=9913 GN=CDH1 PE=4 SV=1	10	8	10	8	882	97.8	41381612.44	
+High	A0AAA9T2G8	Adhesion G-protein coupled receptor G1 OS=Bos taurus OX=9913 GN=ADGRG1 PE=3 SV=1	6	4	5	4	863	96	1858818.375	
+High	A0A3Q1MFL2	Multiple coagulation factor deficiency 2, ER cargo receptor complex subunit OS=Bos taurus OX=9913 GN=MCFD2 PE=4 SV=2	20	2	3	2	311	33.8	4479140.875	
+High	Q3SZT9	Cytochrome c 2 OS=Bos taurus OX=9913 GN=CYCT PE=3 SV=3	50	4	6	4	105	11.7	4986565.313	
+High	A0A3Q1LJS3	ADAM metallopeptidase domain 15 OS=Bos taurus OX=9913 GN=ADAM15 PE=4 SV=2	6	4	4	4	915	98.2	2443312.938	
+High	F1MWU9	Heat shock 70 kDa protein 6 OS=Bos taurus OX=9913 GN=HSPA6 PE=1 SV=3	5	3	4	1	639	70.5	4551460	
+High	A0AAA9RU66	CD82 antigen OS=Bos taurus OX=9913 GN=CD82 PE=1 SV=1	11	4	5	4	384	42.3	2668039.188	
+High	Q32KP8	Serine peptidase inhibitor-like, with Kunitz and WAP domains 1 (Eppin) OS=Bos taurus OX=9913 GN=SPINLW1 PE=2 SV=1	34	4	5	4	134	15.1	2816365	
+High	Q3SZI0	Mannose-6-phosphate isomerase OS=Bos taurus OX=9913 GN=MPI PE=2 SV=3	18	5	5	5	423	46.3	2660285.063	
+High	Q32PA1	CD59 glycoprotein OS=Bos taurus OX=9913 GN=CD59 PE=2 SV=1	33	3	5	3	121	13.7	4581646.813	
+High	A0A3Q1MLE6	Hormone-sensitive lipase OS=Bos taurus OX=9913 GN=LIPE PE=3 SV=2	10	8	8	8	1042	114.5	956723.6875	
+High	A0A3Q1M7Y4	Fc fragment of IgG receptor IIa OS=Bos taurus OX=9913 GN=FCGR2A PE=1 SV=2	20	3	3	2	310	35	4761900.125	
+High	A0AAF6YLD8	Bone morphogenetic protein 4 OS=Bos taurus OX=9913 GN=BMP4 PE=3 SV=1	14	3	3	3	437	49.7	1025044.313	
+High	A6H768	Galactokinase OS=Bos taurus OX=9913 GN=GALK1 PE=2 SV=2	21	7	7	7	392	42.2	3384376.938	Met-loss+Acetyl [N-Term]
+High	E1BNJ9	tryptase OS=Bos taurus OX=9913 GN=PRSS22 PE=4 SV=2	34	7	7	7	296	32.2	3716318.125	
+High	Q29RV1	Protein disulfide-isomerase A4 OS=Bos taurus OX=9913 GN=PDIA4 PE=2 SV=1	18	8	8	8	643	72.5	2437341.531	
+High	Q95122	Monocyte differentiation antigen CD14 OS=Bos taurus OX=9913 GN=CD14 PE=2 SV=2	9	3	4	3	373	39.6	3103382.313	
+High	Q5E987	Proteasome subunit alpha type-5 OS=Bos taurus OX=9913 GN=PSMA5 PE=1 SV=1	20	4	4	4	241	26.4	3815716.75	
+High	Q3T0S3	Tetraspanin-1 OS=Bos taurus OX=9913 GN=TSPAN1 PE=2 SV=1	16	2	3	2	241	26.2	29874080.25	
+High	Q3ZBT5	Syntaxin-7 OS=Bos taurus OX=9913 GN=STX7 PE=2 SV=1	29	5	5	5	261	29.6	2981137.875	
+High	Q3ZC91	Cyclic GMP-AMP phosphodiesterase SMPDL3A OS=Bos taurus OX=9913 GN=SMPDL3A PE=2 SV=1	16	6	6	6	450	51.2	3605862.406	
+High	P46168	Beta-defensin 10 OS=Bos taurus OX=9913 GN=DEFB10 PE=1 SV=3	40	3	7	3	62	6.9	80360868	
+High	A0A452DJD0	Secretoglobin, family 1D, member 2 OS=Bos taurus OX=9913 GN=SCGB1D PE=3 SV=1	20	2	5	2	102	11.3	49147964	
+High	A6QPE3	TEX101 protein OS=Bos taurus OX=9913 GN=TEX101 PE=2 SV=1	15	4	4	4	253	27.3	11379060.75	
+High	A0AAA9SP93	Insulin-like growth factor-binding protein 5 OS=Bos taurus OX=9913 GN=IGFBP5 PE=4 SV=1	18	4	4	4	288	32.1	3706041.313	
+High	Q58DH9	Alpha-N-acetylgalactosaminidase OS=Bos taurus OX=9913 GN=NAGA PE=2 SV=1	15	5	5	5	411	46.5	2542552.531	
+High	P07107	Acyl-CoA-binding protein OS=Bos taurus OX=9913 GN=DBI PE=1 SV=2	28	2	5	2	87	10	5135125.5	
+High	F1MHH9	Fc gamma receptor IIb OS=Bos taurus OX=9913 GN=FCGR2B PE=4 SV=3	14	2	2	1	316	35.1	1091483.125	
+High	A0A3Q1NIN4	Calsyntenin 1 OS=Bos taurus OX=9913 GN=CLSTN1 PE=3 SV=3	9	7	7	7	961	107.4	2686592.219	
+High	E1BM92	Prominin 2 OS=Bos taurus OX=9913 GN=PROM2 PE=3 SV=2	10	6	6	6	833	91.5	508043.4063	
+High	Q3T0Q4	Nucleoside diphosphate kinase B OS=Bos taurus OX=9913 GN=NME2 PE=1 SV=1	41	4	4	1	152	17.3	1162742.75	
+High	E1BCN4	Long-chain-fatty-acid--CoA ligase ACSBG2 OS=Bos taurus OX=9913 GN=ACSBG2 PE=3 SV=4	15	8	8	8	678	75.7	1927136.813	
+High	P56541	Deoxyribonuclease-2-alpha OS=Bos taurus OX=9913 GN=DNASE2 PE=2 SV=2	14	5	5	5	365	40.3	11627066.69	
+High	F1MY02	Disintegrin and metalloproteinase domain-containing protein 1a-like OS=Bos taurus OX=9913 GN=LOC112442047 PE=4 SV=4	6	4	4	4	796	88.5	1379421.844	
+High	Q3T0X5	Proteasome subunit alpha type-1 OS=Bos taurus OX=9913 GN=PSMA1 PE=1 SV=1	43	9	9	9	263	29.6	6635741.813	
+High	P61585	Transforming protein RhoA OS=Bos taurus OX=9913 GN=RHOA PE=1 SV=1	37	6	6	5	193	21.8	5736003.313	
+High	A0AAA9TS02	Polypeptide N-acetylgalactosaminyltransferase OS=Bos taurus OX=9913 GN=GALNTL6 PE=3 SV=1	5	2	3	1	601	69.7		
+High	A0A3Q1LKG3	Beta-defensin OS=Bos taurus OX=9913 GN=DEFB116 PE=3 SV=1	30	3	3	3	103	11.7	6123791.375	
+High	F6QLE3	Peptidase inhibitor 3, skin-derived (SKALP) OS=Bos taurus OX=9913 GN=PI3 PE=4 SV=2	14	3	3	3	172	18.3	26874993.75	
+High	G3X6G7	Meteorin-like protein OS=Bos taurus OX=9913 GN=METRNL PE=3 SV=1	11	3	3	3	309	33.8	5755395.75	
+High	F1MZ96	Ig-like domain-containing protein OS=Bos taurus OX=9913 PE=1 SV=5	74	4	4	4	90	10	3298913.375	
+High	Q1RMR9	Protein kinase C and casein kinase substrate in neurons 2 OS=Bos taurus OX=9913 GN=PACSIN2 PE=2 SV=1	11	5	5	5	486	55.9	1922655.219	
+High	E1B725	Alpha-galactosidase OS=Bos taurus OX=9913 GN=GLA PE=3 SV=2	25	7	7	7	439	49.8	1213053.719	
+High	Q5I597	Betaine--homocysteine S-methyltransferase 1 OS=Bos taurus OX=9913 GN=BHMT PE=2 SV=1	11	4	4	4	407	44.9	1953858.75	
+High	F1N0T7	Cystatin domain-containing protein OS=Bos taurus OX=9913 GN=LOC505033 PE=3 SV=4	17	1	2	1	154	18.1	884629.375	
+High	A0AAA9T7L8	Vitelline membrane outer layer protein 1 homolog OS=Bos taurus OX=9913 GN=VMO1 PE=3 SV=1	28	3	3	3	199	21.4	1081648.625	
+High	Q5E947	Peroxiredoxin-1 OS=Bos taurus OX=9913 GN=PRDX1 PE=2 SV=1	23	5	6	3	199	22.2	3584759.344	
+High	F1MY12	NTR domain-containing protein OS=Bos taurus OX=9913 GN=LOC112442231 PE=3 SV=2	17	4	4	4	243	28.5	3582536	
+High	P00517	cAMP-dependent protein kinase catalytic subunit alpha OS=Bos taurus OX=9913 GN=PRKACA PE=1 SV=3	23	4	4	4	351	40.6	1405609.75	
+High	F1N303	ADAM metallopeptidase with thrombospondin type 1 motif 19 OS=Bos taurus OX=9913 GN=ADAMTS19 PE=4 SV=4	4	5	5	5	1209	133.8	1064347.063	
+High	P01001	Serine protease inhibitor Kazal-type 6 OS=Bos taurus OX=9913 GN=SPINK6 PE=1 SV=3	20	1	4	1	80	8.7	755015872	
+High	A6H797	Malectin OS=Bos taurus OX=9913 GN=MLEC PE=1 SV=1	16	4	4	4	283	31.5	1357373.688	
+High	P80177	Macrophage migration inhibitory factor OS=Bos taurus OX=9913 GN=MIF PE=1 SV=6	18	2	3	2	115	12.3	1723576.875	Met-loss [N-Term]
+High	O46375	Transthyretin OS=Bos taurus OX=9913 GN=TTR PE=1 SV=1	39	4	5	4	147	15.7	8102405.219	
+High	G5E622	Disintegrin and metalloproteinase domain-containing protein 20-like OS=Bos taurus OX=9913 PE=4 SV=3	8	5	5	2	723	82.1	740475.1875	
+High	A0AAA9SDA3	Testican-3 OS=Bos taurus OX=9913 GN=SPOCK1 PE=1 SV=1	13	5	5	5	451	50.3	2364964.594	
+High	A0AAA9SCN2	Growth arrest-specific protein 6 OS=Bos taurus OX=9913 GN=GAS6 PE=4 SV=1	10	5	5	5	671	73.6	2652325.25	
+High	A0AAA9SM51	Arrestin domain containing 1 OS=Bos taurus OX=9913 GN=ARRDC1 PE=3 SV=1	6	3	3	3	494	52.5	2827596.5	
+High	A0AAA9SB13	L-lactate dehydrogenase OS=Bos taurus OX=9913 GN=LDHA PE=3 SV=1	11	5	5	3	490	53.5	1047945.406	
+High	Q3SZI4	14-3-3 protein theta OS=Bos taurus OX=9913 GN=YWHAQ PE=1 SV=1	20	5	5	1	245	27.7		
+High	P62261	14-3-3 protein epsilon OS=Bos taurus OX=9913 GN=YWHAE PE=1 SV=1	18	5	5	2	255	29.2	242156.0469	
+High	Q2KJ54	Kunitz-type protease inhibitor 2 OS=Bos taurus OX=9913 GN=SPINT2 PE=2 SV=1	17	4	5	4	250	28	4163120.25	
+High	A0A3Q1LZZ7	Midkine OS=Bos taurus OX=9913 GN=LOC618377 PE=3 SV=2	26	3	3	3	144	15.7	3687716.5	
+High	F1N3J3	Anterior gradient 2, protein disulphide isomerase family member OS=Bos taurus OX=9913 GN=AGR2 PE=1 SV=2	30	4	6	4	175	19.9	3086675.375	
+High	A6QLZ3	ARSB protein OS=Bos taurus OX=9913 GN=ARSB PE=2 SV=1	12	4	4	4	533	59.3	1750684.563	
+High	Q32KV6	Nucleotide exchange factor SIL1 OS=Bos taurus OX=9913 GN=SIL1 PE=2 SV=1	23	7	7	7	462	52.5	2454455.875	
+High	P19120	Heat shock cognate 71 kDa protein OS=Bos taurus OX=9913 GN=HSPA8 PE=1 SV=2	7	4	4	2	650	71.2		
+High	P14769	N-acetyllactosaminide alpha-1,3-galactosyltransferase OS=Bos taurus OX=9913 GN=GGTA1 PE=1 SV=1	20	7	7	7	368	43.2	4763114.938	
+High	Q0VD44	Twisted gastrulation BMP signaling modulator 1 OS=Bos taurus OX=9913 GN=TWSG1 PE=2 SV=1	15	3	3	3	223	24.9	8630602.625	
+High	F1MB08	phosphopyruvate hydratase OS=Bos taurus OX=9913 GN=ENO1 PE=3 SV=3	21	8	8	6	434	47.4	2088212.125	
+High	Q2KJF1	Alpha-1B-glycoprotein OS=Bos taurus OX=9913 GN=A1BG PE=1 SV=1	18	5	5	5	503	53.5		
+High	E1BKZ9	Sortilin OS=Bos taurus OX=9913 GN=SORT1 PE=3 SV=2	9	4	4	4	876	96.4	1028513.625	
+High	Q3MHE8	Signal recognition particle receptor subunit alpha OS=Bos taurus OX=9913 GN=SRPRA PE=2 SV=1	9	4	4	4	639	69.9	10952234.56	
+High	A6QP36	LMAN2 protein OS=Bos taurus OX=9913 GN=LMAN2 PE=2 SV=1	11	3	3	3	359	40.4	4116977.375	
+High	A0A3Q1M7W6	Calmin OS=Bos taurus OX=9913 GN=CLMN PE=1 SV=3	6	3	3	3	1089	121.5		
+High	A5PK39	Tripeptidyl-peptidase 2 OS=Bos taurus OX=9913 GN=TPP2 PE=2 SV=1	13	13	13	13	1249	138.3	1310042.688	
+High	A6QPK0	SCGB2A2 protein OS=Bos taurus OX=9913 GN=SCGB2A2 PE=2 SV=1	37	4	5	4	92	10.4	14278530.75	
+High	A0AAA9RXP2	Scavenger receptor cysteine-rich domain-containing protein DMBT1 OS=Bos taurus OX=9913 GN=DMBT1 PE=1 SV=2	12	2	2	2	1463	158.8	883575.1875	
+High	E1BMI4	UDP-glucuronic acid decarboxylase 1 OS=Bos taurus OX=9913 GN=UXS1 PE=3 SV=2	15	5	5	5	425	48.2	568080.6875	
+High	O97764	Zeta-crystallin OS=Bos taurus OX=9913 GN=CRYZ PE=1 SV=2	14	4	4	4	330	35.4	2442609.25	
+High	A6QLI4	CHODL protein OS=Bos taurus OX=9913 GN=CHODL PE=2 SV=1	22	4	4	4	273	30.5	2708870.438	
+High	P10279	Major prion protein OS=Bos taurus OX=9913 GN=PRNP PE=1 SV=2	12	3	3	3	264	28.6	3689735.813	
+High	Q148J4	RAB2A, member RAS onco family OS=Bos taurus OX=9913 GN=RAB2A PE=2 SV=1	19	3	3	3	189	20.8	1988142.125	
+High	P52175	Nucleoside diphosphate kinase A OS=Bos taurus OX=9913 GN=NME1 PE=1 SV=3	37	5	5	2	152	17.3	6908724.063	
+High	A0AAA9S278	Proteasome subunit alpha type OS=Bos taurus OX=9913 GN=PSMA6 PE=3 SV=1	13	3	3	3	260	29.1	1907871.328	
+High	G5E589	Proteasome subunit beta OS=Bos taurus OX=9913 GN=PSMB1 PE=3 SV=1	20	4	6	4	241	26.3	5109922	
+High	A0A3Q1MUG0	Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Bos taurus OX=9913 GN=ABCG2 PE=3 SV=1	13	7	7	7	693	76.9	2321792.969	
+High	E1BLW6	Serine protease 55 OS=Bos taurus OX=9913 GN=PRSS55 PE=4 SV=3	16	4	4	4	317	35.5	3539505.281	
+High	Q32LD3	Ly6/PLAUR domain-containing protein 4 OS=Bos taurus OX=9913 GN=LYPD4 PE=2 SV=1	23	4	4	4	246	26.9	4352589.656	
+High	A6H730	Prostatic acid phosphatase OS=Bos taurus OX=9913 GN=ACP3 PE=2 SV=1	6	2	2	2	387	44.6	763350.5625	
+High	A0A3Q1M6K2	Desmocollin 2 OS=Bos taurus OX=9913 GN=DSC2 PE=4 SV=2	2	2	2	2	906	100.2	3489516	
+High	Q3ZCK2	small monomeric GTPase OS=Bos taurus OX=9913 GN=RALA PE=2 SV=1	15	2	3	2	206	23.5		
+High	A0A3Q1NEF8	small monomeric GTPase OS=Bos taurus OX=9913 GN=RAC1 PE=3 SV=2	15	4	4	4	262	29.2	1614615.406	
+High	A0AAA9S9T5	Protocadherin gamma subfamily B, 4 OS=Bos taurus OX=9913 GN=PCDHGC3 PE=4 SV=1	3	3	4	3	932	101.1	384382.9688	
+High	Q0VCP3	Olfactomedin-like protein 3 OS=Bos taurus OX=9913 GN=OLFML3 PE=2 SV=1	22	5	5	5	406	45.9	2338191.875	
+High	A0A3Q1LV24	Leucine rich colipase like 1 OS=Bos taurus OX=9913 GN=LRCOL1 PE=4 SV=1	30	3	3	3	157	18	793835.0625	
+High	E1BPQ9	Immunoglobulin superfamily member 5 OS=Bos taurus OX=9913 GN=IGSF5 PE=3 SV=1	8	2	2	2	370	39.7	3122388.25	
+High	F1N4W4	Membrane cofactor protein OS=Bos taurus OX=9913 GN=CD46 PE=4 SV=5	7	2	2	2	434	46.9	2865655.313	
+High	F1N191	L-amino-acid oxidase OS=Bos taurus OX=9913 GN=IL4I1 PE=3 SV=4	6	3	3	3	589	65.7	87992898.44	
+High	A0A3Q1LL55	Peptidase S1 domain-containing protein OS=Bos taurus OX=9913 GN=LOC112443497 PE=4 SV=2	14	4	4	4	362	39.5	1830673.875	
+High	Q32KP9	Nuclear transport factor 2 OS=Bos taurus OX=9913 GN=NUTF2 PE=2 SV=1	33	3	3	3	127	14.5	3619288	
+High	A0AAA9S8Q9	Proteasome subunit alpha type OS=Bos taurus OX=9913 GN=PSMA8 PE=3 SV=1	26	5	5	5	250	27.9	3130928	
+High	A0A3Q1MG60	Beta-defensin OS=Bos taurus OX=9913 GN=DEFB113 PE=3 SV=2	30	3	3	3	93	10.7	3210441.75	
+High	F1MCT1	Proprotein convertase subtilisin/kexin type 6 OS=Bos taurus OX=9913 GN=PCSK6 PE=3 SV=3	3	3	3	3	965	106.3	1502740.531	
+High	A0A140T8A5	Isocitrate dehydrogenase [NADP] OS=Bos taurus OX=9913 GN=IDH1 PE=1 SV=1	8	3	3	3	414	46.7	614962.375	
+High	Q3T0L5	Epithelial cell adhesion molecule OS=Bos taurus OX=9913 GN=EPCAM PE=2 SV=1	12	2	2	2	314	34.8		
+High	F1N0T3	Serpin B6 OS=Bos taurus OX=9913 GN=LOC617406 PE=3 SV=2	20	4	4	4	378	42.6		
+High	Q3ZC84	Cytosolic non-specific dipeptidase OS=Bos taurus OX=9913 GN=CNDP2 PE=2 SV=1	12	4	4	4	475	52.6		
+High	Q3ZBG1	Ras-related protein Rab-14 OS=Bos taurus OX=9913 GN=RAB14 PE=1 SV=2	10	2	2	2	215	23.9	665569.8125	
+High	Q3ZC09	Beta-enolase OS=Bos taurus OX=9913 GN=ENO3 PE=2 SV=1	9	3	3	1	434	47.1	595194.9375	
+High	Q32KL2	Proteasome subunit beta type-5 OS=Bos taurus OX=9913 GN=PSMB5 PE=1 SV=1	9	2	2	2	263	28.6	580207.75	
+High	F1MJH0	Serine peptidase inhibitor Kazal type 5 OS=Bos taurus OX=9913 GN=SPINK5 PE=4 SV=5	5	3	3	3	862	98.3	503554.2246	
+High	A0AAA9SSX1	Ribonuclease inhibitor OS=Bos taurus OX=9913 GN=RNH1 PE=1 SV=1	7	3	3	3	530	56.4	891405	
+High	E1BEM2	phospholipase A2 OS=Bos taurus OX=9913 GN=PLA2G3 PE=3 SV=1	5	2	2	2	516	56.9	123818.9688	
+High	Q58CS8	N-acetylglucosamine-1-phosphotransferase subunit gamma OS=Bos taurus OX=9913 GN=GNPTG PE=1 SV=4	18	4	4	4	306	33.8	2186262.563	
+High	Q03247	Apolipoprotein E OS=Bos taurus OX=9913 GN=APOE PE=1 SV=1	11	3	3	3	316	36	931564.75	
+High	P00514	cAMP-dependent protein kinase type I-alpha regulatory subunit OS=Bos taurus OX=9913 GN=PRKAR1A PE=1 SV=2	22	7	8	7	380	42.9	3257635.5	
+High	A0A3Q1LG25	Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase OS=Bos taurus OX=9913 GN=B3GAT3 PE=3 SV=2	14	5	5	5	365	40.1	3856220.25	
+High	E1BIY2	ADAMTS like 2 OS=Bos taurus OX=9913 GN=ADAMTSL2 PE=4 SV=3	9	9	9	9	955	104.7	3416318.313	
+High	Q2NL29	Inositol-3-phosphate synthase 1 OS=Bos taurus OX=9913 GN=ISYNA1 PE=1 SV=1	9	4	5	4	557	60.7	450197.5313	
+High	A0AAA9TNA8	Lactosylceramide 4-alpha-galactosyltransferase OS=Bos taurus OX=9913 GN=A4GALT PE=3 SV=1	15	4	4	4	355	40.2	3636084.656	
+High	Q2NKS2	Cytochrome c oxidase assembly protein COX16 homolog, mitochondrial OS=Bos taurus OX=9913 GN=COX16 PE=3 SV=1	21	2	2	2	107	12.5	1012667.531	
+High	G3X800	Disintegrin and metalloproteinase domain-containing protein 20-like OS=Bos taurus OX=9913 GN=LOC112447767 PE=4 SV=4	7	5	5	2	755	85.8	7365132.375	
+High	G3N2L2	Reticulocalbin-1 OS=Bos taurus OX=9913 GN=RCN1 PE=1 SV=2	16	4	4	4	331	38.8	3020358.875	
+High	Q2NKU4	Calcium regulated heat stable protein 1 OS=Bos taurus OX=9913 GN=CARHSP1 PE=1 SV=1	11	1	1	1	147	15.9	1424380.125	
+High	Q2KI48	PTTG1 interacting protein OS=Bos taurus OX=9913 GN=PTTG1IP PE=2 SV=1	13	3	4	3	175	19.7	5333591.563	
+High	Q2TBS5	Serine protease inhibitor Kazal-type 1 OS=Bos taurus OX=9913 GN=SPINK2B PE=2 SV=1	37	2	2	2	84	9.4	6405836	
+High	Q3ZCK9	Proteasome subunit alpha type-4 OS=Bos taurus OX=9913 GN=PSMA4 PE=1 SV=1	7	2	2	2	261	29.5	1441960.813	
+High	A6H749	MATN4 protein OS=Bos taurus OX=9913 GN=MATN4 PE=2 SV=1	14	2	2	2	131	14.1	4330896.375	
+High	Q9XT56	Junctional adhesion molecule A OS=Bos taurus OX=9913 GN=F11R PE=2 SV=1	12	3	3	3	298	32.4	2102037.859	
+High	A0A3Q1MDJ9	CD44 antigen OS=Bos taurus OX=9913 GN=CD44 PE=4 SV=2	3	3	3	3	850	92.3	5914625.5	
+High	A0A3Q1MQ27	CEA cell adhesion molecule 1 OS=Bos taurus OX=9913 GN=CEACAM1 PE=3 SV=3	4	2	2	2	439	48.3	3198121.406	
+High	A0A3Q1MQY0	WAP four-disulfide core domain protein 15B OS=Bos taurus OX=9913 GN=WFDC15B PE=4 SV=1	22	2	4	2	79	9.1	6516236	
+High	A5D984	Pyruvate kinase OS=Bos taurus OX=9913 GN=PKM PE=1 SV=1	8	3	3	3	531	57.9	517726.25	
+High	Q5E9I6	ADP-ribosylation factor 3 OS=Bos taurus OX=9913 GN=ARF3 PE=2 SV=3	14	2	2	2	181	20.6	751794.9375	
+High	P33097	Aspartate aminotransferase, cytoplasmic OS=Bos taurus OX=9913 GN=GOT1 PE=1 SV=3	19	7	7	7	413	46.4	1558020.906	
+High	Q9TTE1	Serpin A3-1 OS=Bos taurus OX=9913 GN=SERPINA3-1 PE=1 SV=3	10	3	4	3	411	46.2	3730698.5	
+High	G3MYQ2	Defensin beta 129 OS=Bos taurus OX=9913 GN=DEFB129 PE=4 SV=3	15	3	6	3	179	20.2	11567165.88	
+High	A4FUZ3	26S proteasome regulatory subunit 4 OS=Bos taurus OX=9913 GN=PSMC1 PE=1 SV=1	7	2	2	2	440	49.2		
+High	Q08DW2	Phosphoribosyl pyrophosphate synthase-associated protein 1 OS=Bos taurus OX=9913 GN=PRPSAP1 PE=2 SV=1	11	2	2	2	356	39.4	1657049.25	
+High	O46414	Ferritin heavy chain OS=Bos taurus OX=9913 GN=FTH1 PE=1 SV=3	15	3	3	3	181	21	3080127.188	
+High	Q32L99	Prostaglandin reductase 2 OS=Bos taurus OX=9913 GN=PTGR2 PE=2 SV=1	8	2	2	2	351	38.4	3563052.5	
+High	Q2KJ15	Platelet-derived growth factor subunit A OS=Bos taurus OX=9913 GN=PDGFA PE=2 SV=1	9	2	2	2	211	24	786482	
+High	P49951	Clathrin heavy chain 1 OS=Bos taurus OX=9913 GN=CLTC PE=1 SV=1	3	2	2	2	1675	191.5		
+High	O46631	Tyrosine-protein phosphatase non-receptor type substrate 1 OS=Bos taurus OX=9913 GN=SIRPA PE=2 SV=1	5	2	2	2	506	55.1	1451422.375	
+High	Q07130	UTP--glucose-1-phosphate uridylyltransferase OS=Bos taurus OX=9913 GN=UGP2 PE=1 SV=2	13	6	6	6	508	56.9	1592321.469	
+High	P34955	Alpha-1-antiproteinase OS=Bos taurus OX=9913 GN=SERPINA1 PE=1 SV=1	12	5	5	5	416	46.1	2957815	
+High	Q2KJH9	4-trimethylaminobutyraldehyde dehydrogenase OS=Bos taurus OX=9913 GN=ALDH9A1 PE=2 SV=1	13	6	7	6	494	53.9	2321594.188	
+High	E1BLA8	Golgi membrane protein 1 OS=Bos taurus OX=9913 GN=GOLM1 PE=3 SV=1	6	1	1	1	405	45.5		
+High	P12763	Alpha-2-HS-glycoprotein OS=Bos taurus OX=9913 GN=AHSG PE=1 SV=2	8	2	2	2	359	38.4		
+High	A0A3Q1LWV8	Ig-like domain-containing protein OS=Bos taurus OX=9913 PE=1 SV=3	14	1	1	1	103	10.8	1123328.25	
+High	Q3MHN0	Proteasome subunit beta type-6 OS=Bos taurus OX=9913 GN=PSMB6 PE=1 SV=1	13	3	3	3	239	25.5	1452090	
+High	Q2KJ44	Serine/threonine-protein phosphatase 2A activator OS=Bos taurus OX=9913 GN=PTPA PE=2 SV=1	11	1	1	1	324	36.9	801332.9375	
+High	A4UAF2	Sperm associated antigen 11 isoform E OS=Bos taurus OX=9913 GN=SPAG11 PE=2 SV=1	15	1	1	1	80	9.2	1293261.625	
+High	A7MAZ2	Syntaxin-12 OS=Bos taurus OX=9913 GN=STX12 PE=2 SV=1	15	3	3	3	274	31.3	437013.3438	
+High	G3N3C5	SRCR domain-containing protein OS=Bos taurus OX=9913 PE=4 SV=4	6	1	1	1	388	41.7	1410936.625	
+High	A0AAA9TUR1	Multidrug resistance-associated protein 4 OS=Bos taurus OX=9913 GN=LOC528412 PE=4 SV=1	2	3	3	2	1312	148	1037674.188	
+High	O77780	Disintegrin and metalloproteinase domain-containing protein 2 OS=Bos taurus OX=9913 GN=ADAM2 PE=2 SV=1	9	4	4	4	745	83.1	611493.375	
+High	Q2T9N7	Lysozyme-like protein 4 OS=Bos taurus OX=9913 GN=LYZL4 PE=2 SV=1	22	2	2	2	145	16.3	306050.4063	
+High	Q2NKS8	peptidylprolyl isomerase OS=Bos taurus OX=9913 GN=LOC526524 PE=2 SV=1	16	1	1	1	108	11.9		
+High	Q32PB3	Sperm acrosome membrane-associated protein 4 OS=Bos taurus OX=9913 GN=SPACA4 PE=2 SV=1	33	2	2	2	126	13	1044326.563	
+High	B0JYR0	Furin OS=Bos taurus OX=9913 GN=FURIN PE=2 SV=1	2	1	1	1	797	87.2		
+High	A0A3Q1MR04	Vesicle-fusing ATPase OS=Bos taurus OX=9913 GN=NSF PE=3 SV=1	11	5	5	5	752	83.6	301514.5938	
+High	A0AAA9S4U4	Fructose-bisphosphate aldolase OS=Bos taurus OX=9913 GN=ALDOC PE=1 SV=1	7	1	1	1	336	36.2		
+High	E1BH06	Complement component 4A OS=Bos taurus OX=9913 GN=C4A PE=4 SV=4	1	1	1	1	1749	193.4		
+High	Q5E9I4	Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase OS=Bos taurus OX=9913 GN=MGAT1 PE=2 SV=1	11	4	4	4	447	51.7	4531705.938	
+High	E1BG77	ADAM metallopeptidase domain 32 OS=Bos taurus OX=9913 GN=ADAM32 PE=4 SV=3	6	3	3	3	747	82.5	1004439.25	
+High	A0AAA9TDQ2	Cytochrome c domain-containing protein OS=Bos taurus OX=9913 GN=LOC100847304 PE=3 SV=1	10	1	1	1	105	11.7	652413	
+High	Q32PE6	Proteolipid protein 2 OS=Bos taurus OX=9913 GN=MGC133647 PE=2 SV=1	19	1	1	1	130	14.7		
+High	A0ABI0P7G3	Beta-defensin 33 OS=Bos taurus OX=9913 GN=LOC783012 PE=4 SV=1	25	1	1	1	61	6.9		
+High	P10897	Transmembrane ascorbate-dependent reductase CYB561 OS=Bos taurus OX=9913 GN=CYB561 PE=1 SV=2	18	2	2	2	252	27.9	98003.40625	
+High	F1N5M2	Vitamin D-binding protein OS=Bos taurus OX=9913 GN=GC PE=4 SV=2	16	4	4	4	474	53.3		
+High	A0A3Q1LFH8	Ig-like domain-containing protein OS=Bos taurus OX=9913 PE=3 SV=2	3	1	1	1	332	36.3	910996.8125	
+High	Q6QRN6	NAD(P)H-hydrate epimerase OS=Bos taurus OX=9913 GN=NAXE PE=2 SV=1	14	1	1	1	288	31.3		
+High	E1BD36	Interleukin 6 cytokine family signal transducer OS=Bos taurus OX=9913 GN=IL6ST PE=3 SV=2	3	3	3	3	935	106	529048.1875	
+High	A0AAA9RVQ9	Uncharacterized protein OS=Bos taurus OX=9913 PE=3 SV=2	17	1	1	1	116	12.9		
+High	Q3ZCF0	Dynactin subunit 2 OS=Bos taurus OX=9913 GN=DCTN2 PE=2 SV=1	4	1	1	1	403	44.3		
+High	F1ML49	KIAA0319 like OS=Bos taurus OX=9913 GN=KIAA0319L PE=4 SV=2	2	1	1	1	1043	115.5	1029654.813	
+High	F1MQD1	Calpain-5 OS=Bos taurus OX=9913 GN=CAPN5 PE=3 SV=2	4	2	2	2	640	73	407392.7813	
+High	Q6QRN7	PP1201 protein OS=Bos taurus OX=9913 GN=TMBIM1 PE=2 SV=1	4	1	1	1	308	33.9	1672788	Met-loss+Acetyl [N-Term]
+High	P50448	Factor XIIa inhibitor OS=Bos taurus OX=9913 PE=1 SV=1	7	1	1	1	468	51.7		
+High	P50397	Rab GDP dissociation inhibitor beta OS=Bos taurus OX=9913 GN=GDI2 PE=2 SV=3	11	2	2	1	445	50.5		Acetyl [N-Term]
+High	Z4YHD9	Hepatocyte growth factor receptor OS=Bos taurus OX=9913 GN=MET PE=3 SV=1	4	4	4	4	1384	154.7	1501565.719	
+High	Q5E9K0	Proteasome subunit beta type-2 OS=Bos taurus OX=9913 GN=PSMB2 PE=1 SV=1	14	2	2	2	201	22.9		Acetyl [N-Term]
+High	Q05718	Insulin-like growth factor-binding protein 6 OS=Bos taurus OX=9913 GN=IGFBP6 PE=2 SV=2	13	2	2	2	237	25		
+High	Q3T0H0	Leucine carboxyl methyltransferase 1 OS=Bos taurus OX=9913 GN=LCMT1 PE=2 SV=1	8	1	1	1	332	38		
+High	A6QNN7	Deoxyribonuclease OS=Bos taurus OX=9913 GN=DNASE1L1 PE=2 SV=1	5	1	1	1	316	35.2	590440.125	
+High	P00921	Carbonic anhydrase 2 OS=Bos taurus OX=9913 GN=CA2 PE=1 SV=3	12	3	3	3	260	29.1	1199734.25	
+High	Q7SIH1	Alpha-2-macroglobulin OS=Bos taurus OX=9913 GN=A2M PE=1 SV=2	3	2	2	2	1510	167.5	529222.625	
+High	Q3T108	Proteasome subunit beta type-4 OS=Bos taurus OX=9913 GN=PSMB4 PE=1 SV=1	8	1	1	1	264	29		
+High	Q9N0V4	Glutathione S-transferase Mu 1 OS=Bos taurus OX=9913 GN=GSTM1 PE=1 SV=3	13	3	3	2	218	25.6		Met-loss [N-Term]
+High	W0UTH7	Ribonuclease A M2 OS=Bos taurus OX=9913 GN=RAM2 PE=4 SV=1	8	1	1	1	146	17.6	763773	
+High	Q3T0Y8	Vesicle-associated membrane protein 8 OS=Bos taurus OX=9913 GN=VAMP8 PE=3 SV=1	21	2	2	2	100	11.4	879727.3125	
+High	Q3T114	2-iminobutanoate/2-iminopropanoate deaminase OS=Bos taurus OX=9913 GN=RIDA PE=2 SV=3	19	2	2	2	137	14.3		
+High	C4T7Z1	Lymphocyte antigen 96 OS=Bos taurus OX=9913 GN=LY96 PE=2 SV=1	18	3	3	3	160	18.9	3660314.438	
+High	A6QPT7	Endoplasmic reticulum aminopeptidase 2 OS=Bos taurus OX=9913 GN=ERAP2 PE=2 SV=1	6	6	6	6	954	109.6	2908976.578	
+High	A0AAA9S5L9	Large proline-rich protein BAG6 OS=Bos taurus OX=9913 GN=BAG6 PE=4 SV=1	3	2	2	2	1175	123.4		
+High	A0ABI0P2Y5	Heparan-sulfate 6-O-sulfotransferase OS=Bos taurus OX=9913 GN=HS6ST1 PE=3 SV=1	12	5	5	5	411	48.1	2050352.344	
+High	Q3SYY2	Protein-tyrosine sulfotransferase 2 OS=Bos taurus OX=9913 GN=TPST2 PE=2 SV=1	11	3	3	3	377	41.9	539560.875	
+High	Q32KR2	Acrosomal vesicle protein 1 OS=Bos taurus OX=9913 GN=ACRV1 PE=2 SV=1	6	1	1	1	273	28.9		
+High	E1BKS1	Syndecan OS=Bos taurus OX=9913 GN=SDC4 PE=3 SV=1	5	1	1	1	199	21.6	491851.5625	
+High	A0A3Q1LZP8	Four and a half LIM domains 1 OS=Bos taurus OX=9913 GN=FHL1 PE=1 SV=1	9	3	3	3	372	40.6	419819.6875	
+High	Q2NKT7	Uncharacterized protein MGC137030 OS=Bos taurus OX=9913 GN=MGC137030 PE=2 SV=1	32	4	4	4	144	16.1	1564434.813	
+High	Q5EA01	Beta-1,4-glucuronyltransferase 1 OS=Bos taurus OX=9913 GN=B4GAT1 PE=2 SV=2	4	2	2	2	415	47.2	1072749.563	
+High	Q08DD1	Arylsulfatase A OS=Bos taurus OX=9913 GN=ARSA PE=2 SV=1	7	2	2	2	507	53.8	1581762	
+High	Q8SPU5	BPI fold-containing family A member 1 OS=Bos taurus OX=9913 GN=BPIFA1 PE=2 SV=1	7	1	1	1	255	26.6		
+High	Q2HJE5	Protein FAM234A OS=Bos taurus OX=9913 GN=FAM234A PE=2 SV=1	5	2	2	2	552	58.7		
+High	Q3MHR3	Dynein light chain 2, cytoplasmic OS=Bos taurus OX=9913 GN=DYNLL2 PE=3 SV=1	33	2	2	2	89	10.3	902615.875	
+High	P00515	cAMP-dependent protein kinase type II-alpha regulatory subunit OS=Bos taurus OX=9913 GN=PRKAR2A PE=1 SV=2	25	6	6	6	401	45.1	823512.75	Met-loss+Acetyl [N-Term]
+High	A0A3Q1LL03	2-phosphoxylose phosphatase 1 OS=Bos taurus OX=9913 GN=PXYLP1 PE=3 SV=1	6	2	2	2	480	55.1	674307.625	
+Medium	E1BKN0	Histone-lysine N-methyltransferase 2B OS=Bos taurus OX=9913 GN=KMT2B PE=4 SV=2	0	1	1	1	2711	293.2		
+High	A0ABI0NPZ4	acetyl-CoA carboxylase OS=Bos taurus OX=9913 GN=ACACB PE=4 SV=1	1	1	1	1	2431	273	484189.5938	
+High	A0A3Q1LF32	Serine incorporator 5 OS=Bos taurus OX=9913 GN=SERINC5 PE=3 SV=1	2	1	1	1	459	51.3		
+High	F1N780	receptor protein-tyrosine kinase OS=Bos taurus OX=9913 GN=EPHA7 PE=4 SV=5	4	3	3	3	998	112	638718.625	
+High	A0A3Q1N5Z4	Ig-like domain-containing protein OS=Bos taurus OX=9913 GN=LOC522128 PE=3 SV=3	10	3	3	3	271	29.9	2761650.875	
+High	P62871	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1 OS=Bos taurus OX=9913 GN=GNB1 PE=1 SV=3	9	3	3	1	340	37.4	306123.5938	
+High	P11017	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-2 OS=Bos taurus OX=9913 GN=GNB2 PE=2 SV=3	9	3	3	1	340	37.3	947226.375	
+High	A0AAA9TLU6	IQ motif containing GTPase activating protein 2 OS=Bos taurus OX=9913 GN=IQGAP2 PE=1 SV=1	2	1	1	1	1579	181.6		
+High	O62830	Protein phosphatase 1B OS=Bos taurus OX=9913 GN=PPM1B PE=2 SV=2	6	1	1	1	484	53.4		
+High	Q2TBX9	Integrin alpha FG-GAP repeat containing 1 OS=Bos taurus OX=9913 GN=ITFG1 PE=2 SV=1	5	3	3	3	611	67.8	2664463	
+High	P58352	Solute carrier family 2, facilitated glucose transporter member 3 OS=Bos taurus OX=9913 GN=SLC2A3 PE=2 SV=1	2	1	1	1	494	54	835409.375	
+High	A0A3Q1MRJ9	Nectin cell adhesion molecule 2 OS=Bos taurus OX=9913 GN=NECTIN2 PE=3 SV=1	12	5	5	5	539	58	1417100.25	
+High	F1MK62	Tyrosine-protein kinase STYK1 OS=Bos taurus OX=9913 GN=STYK1 PE=4 SV=4	2	1	1	1	429	47.7	706224.0625	
+Medium	E1B7Q7	E3 ubiquitin-protein ligase TRIP12 OS=Bos taurus OX=9913 GN=TRIP12 PE=2 SV=2	1	1	1	1	1992	220.3		
+High	F1MNL4	Neogenin OS=Bos taurus OX=9913 GN=NEO1 PE=3 SV=4	1	2	2	2	1460	159.4	370893.875	
+High	P21856	Rab GDP dissociation inhibitor alpha OS=Bos taurus OX=9913 GN=GDI1 PE=1 SV=1	18	6	6	5	447	50.5	3621539	
+High	P79251	V-type proton ATPase subunit G 1 OS=Bos taurus OX=9913 GN=ATP6V1G1 PE=1 SV=3	9	1	1	1	118	13.7	581949.125	
+High	G5E5V1	Ig-like domain-containing protein OS=Bos taurus OX=9913 PE=4 SV=4	24	2	2	2	122	12.7	680040.625	
+High	A0AAA9T8I0	Cationic amino acid transporter C-terminal domain-containing protein OS=Bos taurus OX=9913 GN=LOC528332 PE=3 SV=1	1	1	1	1	643	70.5	1175689.625	
+Medium	Q9XSK2	CD63 antigen OS=Bos taurus OX=9913 GN=CD63 PE=2 SV=4	3	1	1	1	237	25.7	1511722.125	
+High	A0A3Q1MJY0	Proteasome subunit beta OS=Bos taurus OX=9913 GN=PSMB7 PE=3 SV=2	4	1	1	1	278	30	568313.8125	
+High	P55052	Fatty acid-binding protein 5 OS=Bos taurus OX=9913 GN=FABP5 PE=1 SV=4	7	1	1	1	135	15.1	394856.5	Met-loss+Acetyl [N-Term]
+High	A0AAA9SRB3	Nectin-4 OS=Bos taurus OX=9913 GN=NECTIN4 PE=3 SV=1	4	2	2	2	577	63.1		
+High	A0AAF6Z650	Methyltransferase 9, His-X-His N1(pi)-histidine OS=Bos taurus OX=9913 GN=METTL9 PE=4 SV=2	4	1	1	1	349	39.7	1017101.625	
+High	F6QMY2	Thy-1 membrane glycoprotein OS=Bos taurus OX=9913 GN=THY1 PE=1 SV=1	10	2	2	2	204	22.8	746212.1875	
+High	Q28034	Glucosidase 2 subunit beta OS=Bos taurus OX=9913 GN=PRKCSH PE=2 SV=1	6	3	3	3	533	60.1	2081361.625	
+High	P19879	Mimecan OS=Bos taurus OX=9913 GN=OGN PE=1 SV=3	3	1	1	1	299	34.2	999366.8125	
+High	E1B9Y3	Lipocalin 12 OS=Bos taurus OX=9913 GN=LCN12 PE=3 SV=2	7	1	1	1	193	21.6	2818203.25	
+High	F1N1G1	Heparanase OS=Bos taurus OX=9913 GN=HPSE PE=3 SV=3	5	3	3	3	553	62		
+High	A0AAA9TGJ5	Mammary serum amyloid A3.2 OS=Bos taurus OX=9913 GN=M-SAA3.2 PE=3 SV=1	18	4	4	2	217	23.7	4284764.5	
+High	Q8SQ28	Serum amyloid A-3 protein OS=Bos taurus OX=9913 GN=SAA3 PE=1 SV=1	21	3	3	1	131	14.7		
+High	G3MXN0	Anterior gradient 3, protein disulphide isomerase family member OS=Bos taurus OX=9913 GN=AGR3 PE=3 SV=1	7	1	1	1	166	19.2	1130157.625	
+High	O77834	Peroxiredoxin-6 OS=Bos taurus OX=9913 GN=PRDX6 PE=1 SV=3	4	1	1	1	224	25.1		
+High	P08037	Beta-1,4-galactosyltransferase 1 OS=Bos taurus OX=9913 GN=B4GALT1 PE=1 SV=3	7	3	3	3	402	44.8	390023.2813	
+High	A0A3Q1MWC7	Malic enzyme OS=Bos taurus OX=9913 GN=ME1 PE=3 SV=1	4	3	3	3	568	63.3	641909.3438	
+High	Q08E20	S-formylglutathione hydrolase OS=Bos taurus OX=9913 GN=ESD PE=2 SV=1	16	3	3	3	282	31.5	655311.6406	
+High	P07507	Matrix Gla protein OS=Bos taurus OX=9913 GN=MGP PE=1 SV=1	11	1	1	1	103	12.2	335906.2188	
+High	F6R3N4	Keratin, type I cytoskeletal 10 OS=Bos taurus OX=9913 GN=KRT10 PE=3 SV=1	5	3	3	3	553	58	1212608.625	
+High	A0ABI0P4E1	Major histocompatibility class I related protein OS=Bos taurus OX=9913 GN=MIC1 PE=4 SV=1	3	1	1	1	298	33.7	547816.1875	
+High	Q32KU6	Tetraspanin-6 OS=Bos taurus OX=9913 GN=TSPAN6 PE=2 SV=1	3	1	1	1	245	27.5	522352.5	
+High	A7E3X2	Casein kinase I isoform gamma-1 OS=Bos taurus OX=9913 GN=CSNK1G1 PE=2 SV=1	2	1	1	1	457	52.6		
+High	A0AAA9SQR3	FAM3 metabolism regulating signaling molecule A OS=Bos taurus OX=9913 GN=FAM3A PE=3 SV=1	4	1	1	1	272	29.7		
+Medium	A0A3Q1MMB2	CAP-Gly domain containing linker protein 1 OS=Bos taurus OX=9913 GN=CLIP1 PE=1 SV=2	0	1	1	1	2215	251.5	2008894.75	
+High	Q08DN1	Tumor necrosis factor receptor superfamily member 21 OS=Bos taurus OX=9913 GN=TNFRSF21 PE=2 SV=1	2	1	1	1	652	71.3		
+High	Q32LC5	CKLF-like MARVEL transmembrane domain containing 2 OS=Bos taurus OX=9913 GN=CMTM2 PE=2 SV=1	4	1	1	1	233	25.8	767350.25	
+High	F6RBY0	Transmembrane protease serine 2 OS=Bos taurus OX=9913 GN=TMPRSS2 PE=4 SV=1	7	3	3	3	508	56.1	1204256.125	
+High	Q5E956	Triosephosphate isomerase OS=Bos taurus OX=9913 GN=TPI1 PE=2 SV=3	10	2	2	2	249	26.7		
+High	F6RXK0	Platelet-derived growth factor D OS=Bos taurus OX=9913 GN=PDGFD PE=3 SV=1	10	4	4	4	370	42.8	986538.375	
+High	P23356	Ubiquitin carboxyl-terminal hydrolase isozyme L1 OS=Bos taurus OX=9913 GN=UCHL1 PE=1 SV=2	13	3	3	3	252	28.3	1621969.188	
+High	O18739	CCN family member 2 OS=Bos taurus OX=9913 GN=CCN2 PE=2 SV=2	12	4	4	4	349	37.9	737945.375	
+High	A0A3Q1M4H9	BPTI/Kunitz inhibitor domain-containing protein OS=Bos taurus OX=9913 PE=4 SV=3	6	1	1	1	138	15.8		
+High	A0AAA9SCH0	WAP four-disulfide core domain 13 OS=Bos taurus OX=9913 GN=WFDC13 PE=4 SV=1	10	1	1	1	93	10.4	2548285.25	
+High	P00727	Cytosol aminopeptidase OS=Bos taurus OX=9913 GN=LAP3 PE=1 SV=3	3	1	1	1	519	56.3		
+High	A0AAA9RY95	Glucosylceramidase OS=Bos taurus OX=9913 GN=GBA1 PE=3 SV=1	3	1	1	1	541	60		
+High	F6RM04	Putative RNA-binding protein 15B OS=Bos taurus OX=9913 GN=RBM15B PE=3 SV=2	1	1	1	1	894	97.2	2638200.75	
+High	Q3SZK8	Na(+)/H(+) exchange regulatory cofactor NHE-RF1 OS=Bos taurus OX=9913 GN=NHERF1 PE=2 SV=1	4	1	1	1	368	39.6		
+High	Q3ZCH9	Haloacid dehalogenase-like hydrolase domain-containing protein 2 OS=Bos taurus OX=9913 GN=HDHD2 PE=2 SV=1	10	3	3	3	259	28.6	1635297.969	
+High	A0A3S5ZPM2	Histone acetyltransferase type B catalytic subunit OS=Bos taurus OX=9913 GN=HAT1 PE=3 SV=1	3	1	1	1	448	52.5		
+Medium	A0A3Q1LFA6	Ig-like domain-containing protein OS=Bos taurus OX=9913 PE=4 SV=3	8	1	1	1	113	11.9	1090350.75	
+High	E1BE11	Hemicentin-1 OS=Bos taurus OX=9913 GN=HMCN1 PE=4 SV=3	2	9	9	9	5635	612.2	2961774.281	
+High	Q0P594	Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform OS=Bos taurus OX=9913 GN=PPP2CB PE=1 SV=1	3	1	1	1	309	35.5	502807.1875	
+High	A0A3Q1LQC4	Carboxypeptidase OS=Bos taurus OX=9913 GN=SCPEP1 PE=3 SV=2	6	2	2	2	432	49	1835656.438	
+Medium	A6QQ81	DSN1 component of MIS12 kinetochore complex OS=Bos taurus OX=9913 GN=DSN1 PE=2 SV=1	2	1	1	1	353	40.2	780245.5	
+High	Q3T064	Ropporin-1 OS=Bos taurus OX=9913 GN=ROPN1 PE=2 SV=1	4	1	1	1	212	24		
+Medium	G3MZK0	2-aminoethanethiol dioxygenase OS=Bos taurus OX=9913 GN=ADO PE=4 SV=3	4	1	1	1	270	29.7	724942.3125	
+High	Q32P93	Glycosylphosphatidylinositol anchored molecule like OS=Bos taurus OX=9913 GN=GML PE=2 SV=1	27	3	3	3	154	18	2071125.563	
+High	A0ABI0P0W2	ADAM metallopeptidase domain 9 OS=Bos taurus OX=9913 GN=ADAM9 PE=4 SV=1	5	3	3	3	821	90.6	4956876.688	
+High	Q32LB7	V-type proton ATPase subunit E 2 OS=Bos taurus OX=9913 GN=ATP6V1E2 PE=2 SV=1	13	3	3	3	226	26.2	341944.75	
+High	Q3SZ57	Alpha-fetoprotein OS=Bos taurus OX=9913 GN=AFP PE=2 SV=1	1	1	2	1	610	68.5	16966850	
+High	A0AAF6Z791	Ribose-phosphate pyrophosphokinase 1 OS=Bos taurus OX=9913 GN=PRPS1 PE=3 SV=1	14	4	4	4	319	35	1945577.688	
+High	E1BKH6	EF-hand calcium binding domain 14 OS=Bos taurus OX=9913 GN=EFCAB14 PE=4 SV=3	1	1	1	1	494	55	456807.4375	
+High	A0AAA9RYM6	Ladinin-1 OS=Bos taurus OX=9913 PE=4 SV=2	6	1	2	1	358	38.5	6268948	
+Medium	E1BPT8	Neurogenic locus notch homolog protein 3 OS=Bos taurus OX=9913 GN=NOTCH3 PE=3 SV=2	1	1	1	1	2332	244.2		
+High	A5PKH0	TOR1AIP2 protein OS=Bos taurus OX=9913 GN=TOR1AIP2 PE=2 SV=1	7	2	2	2	469	51.6	980782.2031	
+Medium	E1BNZ1	Ig-like domain-containing protein OS=Bos taurus OX=9913 PE=4 SV=3	17	1	1	1	158	17.4	767115.875	
+High	Q32PH8	Elongation factor 1-alpha 2 OS=Bos taurus OX=9913 GN=EEF1A2 PE=2 SV=1	2	1	1	1	463	50.4	320960.25	
+High	G5E5M8	Alpha-mannosidase OS=Bos taurus OX=9913 GN=LOC532207 PE=3 SV=3	5	4	4	1	995	113.6		
+High	P20456	Inositol monophosphatase 1 OS=Bos taurus OX=9913 GN=IMPA1 PE=1 SV=1	4	1	1	1	277	30		
+High	F1N1C7	Adipocyte enhancer-binding protein 1 OS=Bos taurus OX=9913 GN=AEBP1 PE=3 SV=3	3	3	3	3	1170	131.8		
+Medium	P19803	Rho GDP-dissociation inhibitor 1 OS=Bos taurus OX=9913 GN=ARHGDIA PE=1 SV=3	5	1	1	1	204	23.4	298035.5625	
+High	G3X7J5	Torsin-4A OS=Bos taurus OX=9913 GN=TOR4A PE=3 SV=1	3	1	1	1	406	44.7	511907.9063	
+High	A6QQ77	Sperm acrosome membrane-associated protein 3 OS=Bos taurus OX=9913 GN=SPACA3 PE=2 SV=1	5	1	1	1	163	18.1	355298.375	
+High	A3KN51	TSG101 protein OS=Bos taurus OX=9913 GN=TSG101 PE=2 SV=1	3	1	1	1	391	44	1014930.063	
+High	P22226	Cathelicidin-1 OS=Bos taurus OX=9913 GN=CATHL1 PE=1 SV=2	10	1	1	1	155	17.6		
+High	A0AAA9S9V5	Soluble calcium-activated nucleotidase 1 OS=Bos taurus OX=9913 GN=CANT1 PE=3 SV=1	4	2	2	2	401	44.7	347826.5313	
+Medium	A0AAA9T153	Polypeptide N-acetylgalactosaminyltransferase OS=Bos taurus OX=9913 GN=GALNT7 PE=3 SV=2	2	1	1	1	659	75.4		
+Medium	E1BB36	Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase OS=Bos taurus OX=9913 GN=MGAT2 PE=3 SV=3	2	1	1	1	446	51.6	533639.5625	
+Medium	F1ME93	Peptidase S1 domain-containing protein OS=Bos taurus OX=9913 GN=LOC527795 PE=4 SV=4	6	1	1	1	389	42		
+Medium	A0ABI0NTJ2	Spliceosome associated factor 3, U4/U6 recycling protein OS=Bos taurus OX=9913 GN=SART3 PE=4 SV=1	3	1	1	1	965	109.7		
+Medium	F1MKX4	Proteasome activator complex subunit 4 OS=Bos taurus OX=9913 GN=PSME4 PE=1 SV=1	0	1	1	1	1845	211.5		
+High	F1MHK9	ATP binding cassette subfamily A member 14 OS=Bos taurus OX=9913 GN=ABCA14 PE=4 SV=4	1	1	1	1	1655	188.1		
+High	Q09YM2	UL16 binding protein 21 OS=Bos taurus OX=9913 GN=ULBP21 PE=4 SV=1	8	2	2	2	260	29	1551787.375	
+Medium	P07318	Beta-crystallin B1 OS=Bos taurus OX=9913 GN=CRYBB1 PE=1 SV=3	11	1	1	1	253	28.1	1625561.625	
+High	Q2TBG8	Ubiquitin carboxyl-terminal hydrolase isozyme L3 OS=Bos taurus OX=9913 GN=UCHL3 PE=2 SV=1	4	1	1	1	230	26.2		
+High	P06868	Plasminogen OS=Bos taurus OX=9913 GN=PLG PE=1 SV=2	2	2	2	2	812	91.2		
+High	A0AAA9SAQ7	Activating transcription factor 6 OS=Bos taurus OX=9913 GN=ATF6 PE=3 SV=2	2	1	1	1	689	76.7		
+High	E1BLT3	Spectrin beta chain OS=Bos taurus OX=9913 GN=SPTBN4 PE=3 SV=3	0	1	1	1	2564	288.7	246622.2969	
+Medium	P62194	26S proteasome regulatory subunit 8 OS=Bos taurus OX=9913 GN=PSMC5 PE=2 SV=1	3	1	1	1	406	45.6		
+High	F1MNJ9	Neuroblastoma suppressor of tumorigenicity 1 OS=Bos taurus OX=9913 GN=NBL1 PE=3 SV=3	4	1	1	1	177	18.9		
+Medium	A5PK70	Nucleoside diphosphate kinase OS=Bos taurus OX=9913 GN=NME3 PE=2 SV=1	10	1	1	1	169	19.1		
+High	Q0P5N1	Protein canopy homolog 3 OS=Bos taurus OX=9913 GN=CNPY3 PE=2 SV=1	6	1	1	1	282	31.4		
+High	Q2KJ46	26S proteasome non-ATPase regulatory subunit 3 OS=Bos taurus OX=9913 GN=PSMD3 PE=2 SV=1	4	1	1	1	534	60.9		
+High	Q08DM8	Translin OS=Bos taurus OX=9913 GN=TSN PE=2 SV=1	10	1	1	1	228	26.2		
+High	P62935	Peptidyl-prolyl cis-trans isomerase A OS=Bos taurus OX=9913 GN=PPIA PE=1 SV=2	11	2	2	2	164	17.9	232855.2813	
+High	Q5E9B7	Chloride intracellular channel protein 1 OS=Bos taurus OX=9913 GN=CLIC1 PE=2 SV=3	5	1	1	1	241	27	686809.9375	
+Medium	F1MBZ1	Kelch-like protein 10 OS=Bos taurus OX=9913 GN=KLHL10 PE=4 SV=1	2	1	1	1	608	68.9		
+High	G3N0V2	Keratin, type II cytoskeletal 1 OS=Bos taurus OX=9913 GN=KRT1 PE=1 SV=2	3	2	2	2	606	63.1	763944.8125	
+Medium	Q32PA4	14 kDa phosphohistidine phosphatase OS=Bos taurus OX=9913 GN=PHPT1 PE=2 SV=1	9	1	1	1	125	13.9		
+High	A0AAA9T520	Nucleotide triphosphate diphosphatase NUDT15 OS=Bos taurus OX=9913 GN=NUDT15 PE=3 SV=1	14	1	1	1	168	19.1		
+Medium	A0A3Q1MSJ1	KIAA0319 OS=Bos taurus OX=9913 GN=KIAA0319 PE=4 SV=2	1	1	1	1	1066	116.6	398013.4063	
+High	Q5E9F9	26S proteasome regulatory subunit 7 OS=Bos taurus OX=9913 GN=PSMC2 PE=2 SV=3	5	2	2	2	433	48.6		
+High	Q32PJ2	Apolipoprotein A-IV OS=Bos taurus OX=9913 GN=APOA4 PE=2 SV=1	9	3	3	3	380	43	663522.5	
+High	A6H713	Lipase OS=Bos taurus OX=9913 GN=LIPA PE=2 SV=1	3	1	1	1	399	45.7		
+High	F1MSZ6	Antithrombin-III OS=Bos taurus OX=9913 GN=SERPINC1 PE=3 SV=3	6	3	3	3	465	52.4	791192.5313	
+High	Q0VC64	MANSC domain containing 1 OS=Bos taurus OX=9913 GN=MANSC1 PE=2 SV=1	10	2	2	2	413	44.5		
+High	Q08E55	Membrane-bound transcription factor site-1 protease OS=Bos taurus OX=9913 GN=MBTPS1 PE=2 SV=1	4	2	2	2	1052	117.3		
+High	E1BKM4	Programmed cell death 6-interacting protein OS=Bos taurus OX=9913 GN=PDCD6IP PE=1 SV=4	6	3	3	3	880	97.6	1012363.375	
+High	P79105	Protein S100-A12 OS=Bos taurus OX=9913 GN=S100A12 PE=1 SV=3	17	2	2	2	92	10.7	2035487.375	
+High	P56701	26S proteasome non-ATPase regulatory subunit 2 OS=Bos taurus OX=9913 GN=PSMD2 PE=1 SV=2	4	2	2	2	908	100.2	563653.625	
+High	P07456	Insulin-like growth factor 2 OS=Bos taurus OX=9913 GN=IGF2 PE=1 SV=4	5	1	1	1	179	19.7		
+High	A0AAA9S9R4	26S proteasome regulatory subunit 6A OS=Bos taurus OX=9913 GN=PSMC3 PE=1 SV=1	5	2	2	2	448	50.3		
+Medium	F1MHS5	Protein S100-A9 OS=Bos taurus OX=9913 GN=S100A9 PE=3 SV=3	13	1	1	1	156	17.1	356835.6563	
+High	Q2KIS7	Tetranectin OS=Bos taurus OX=9913 GN=CLEC3B PE=2 SV=1	16	2	2	2	202	22.1		
+High	F6QH94	Protein disulfide-isomerase A6 OS=Bos taurus OX=9913 GN=PDIA6 PE=1 SV=1	4	2	2	2	440	48.1	638798.1875	
+High	F1MZB7	Zinc finger and BTB domain containing 10 OS=Bos taurus OX=9913 GN=ZBTB10 PE=4 SV=3	4	1	1	1	870	94.5		
+High	F1MYX4	Regulator of G-protein signaling 9 OS=Bos taurus OX=9913 GN=RGS9 PE=4 SV=4	1	1	1	1	663	75.5	376766.3438	
+High	A6QR35	Secretory carrier-associated membrane protein OS=Bos taurus OX=9913 GN=SCAMP2 PE=1 SV=1	4	1	1	1	328	36.7	930606.125	
+High	F1MNN7	Lipopolysaccharide-binding protein OS=Bos taurus OX=9913 GN=LBP PE=3 SV=3	6	2	2	2	540	59.9	173634.5	
+High	A0A140T8A4	Thimet oligopeptidase OS=Bos taurus OX=9913 GN=THOP1 PE=3 SV=1	1	1	1	1	687	78.1	56313352	
+High	Q06807	Angiopoietin-1 receptor OS=Bos taurus OX=9913 GN=TEK PE=2 SV=1	2	2	2	2	1125	125.8	710450.4375	
+Medium	Q95121	Pigment epithelium-derived factor OS=Bos taurus OX=9913 GN=SERPINF1 PE=1 SV=1	2	1	1	1	416	46.2		
+High	A0A3Q1MNQ1	Elongation factor 1-gamma OS=Bos taurus OX=9913 GN=TUT1 PE=3 SV=2	0	1	1	1	1353	148.3	333150.8125	
+Medium	Q32PI5	Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform OS=Bos taurus OX=9913 GN=PPP2R1A PE=1 SV=1	2	1	1	1	589	65.2	260532.3281	
+High	P62958	Adenosine 5'-monophosphoramidase HINT1 OS=Bos taurus OX=9913 GN=HINT1 PE=1 SV=2	19	1	1	1	126	13.8	560468.1875	
+High	A0A3S5ZPG9	Mucin 15, cell surface associated OS=Bos taurus OX=9913 GN=MUC15 PE=4 SV=2	12	3	3	3	348	37.7	1798870.938	
+High	A0AAA9TW47	Glutathione S-transferase kappa OS=Bos taurus OX=9913 GN=GSTK1 PE=3 SV=2	6	1	1	1	226	25.6	536460.25	
+High	F6Q438	Peptidase S1 domain-containing protein OS=Bos taurus OX=9913 GN=LOC529047 PE=4 SV=3	10	1	1	1	356	39.2		
+High	A5PK65	D-dopachrome decarboxylase OS=Bos taurus OX=9913 GN=DDT PE=3 SV=1	13	1	1	1	118	12.9	898464.5625	
+Medium	A0A3Q1MQ34	Filamin B OS=Bos taurus OX=9913 GN=FLNB PE=1 SV=1	1	1	1	1	2602	277.8	4040957.75	
+High	A0ABI0P2Z2	Membrane cofactor protein OS=Bos taurus OX=9913 GN=LOC518224 PE=4 SV=1	2	1	1	1	372	41	577047.125	
+Medium	A0AAA9SPJ1	Chromosome 18 C19orf33 homolog OS=Bos taurus OX=9913 GN=C18H19orf33 PE=1 SV=1	9	1	1	1	130	13.6		
+High	Q3T0C6	Sodium/potassium-transporting ATPase subunit beta-3 OS=Bos taurus OX=9913 GN=ATP1B3 PE=2 SV=1	17	2	2	2	279	31.5	509910.8452	
+Medium	E1BJG8	Coiled-coil domain containing 68 OS=Bos taurus OX=9913 GN=CCDC68 PE=4 SV=3	3	1	1	1	335	38.6	812803.25	
+High	A0A3Q1LR47	LY6/PLAUR domain containing 6B OS=Bos taurus OX=9913 GN=LYPD6B PE=4 SV=2	22	2	3	2	183	20.7	1739625.656	
+Medium	F1N0I3	Coagulation factor V OS=Bos taurus OX=9913 GN=F5 PE=3 SV=3	1	1	1	1	2121	239.4	288280.375	
+Medium	A2VE44	Mediator of RNA polymerase II transcription subunit 25 OS=Bos taurus OX=9913 GN=MED25 PE=2 SV=1	1	1	1	1	746	78.1		
+High	A5PK75	Torsin OS=Bos taurus OX=9913 GN=TOR1A PE=2 SV=1	6	2	2	2	333	37.8		
+Medium	F1MG95	poly(ADP-ribose) glycohydrolase OS=Bos taurus OX=9913 GN=PARG PE=3 SV=2	1	1	1	1	977	110.7		
+Medium	A0JN53	RNA polymerase II-associated protein 1 OS=Bos taurus OX=9913 GN=RPAP1 PE=2 SV=1	1	1	1	1	1395	152.8	736946	
+High	F1MHC2	Syntaxin-binding protein 1 OS=Bos taurus OX=9913 GN=STXBP2 PE=1 SV=2	3	2	2	2	596	66.6	341299.8438	
+High	A0A3Q1MTS5	Phospholipid-transporting ATPase OS=Bos taurus OX=9913 GN=ATP9A PE=3 SV=2	2	2	2	2	1116	125.1	385400.5	
+Medium	A0AAA9THG9	Receptor-type tyrosine-protein phosphatase kappa OS=Bos taurus OX=9913 GN=PTPRK PE=3 SV=1	0	1	1	1	1461	164.4	385978.8438	
+High	F1N2J8	Chromosome 25 C16orf89 homolog OS=Bos taurus OX=9913 GN=C25H16orf89 PE=4 SV=3	3	1	1	1	361	40.9		
+High	A0AAA9TK73	Thioredoxin domain-containing protein 3 OS=Bos taurus OX=9913 GN=NME8 PE=3 SV=1	3	1	1	1	588	67.3	155108.4688	
+High	Q3T0E5	Adipocyte plasma membrane-associated protein OS=Bos taurus OX=9913 GN=APMAP PE=2 SV=1	2	1	1	1	412	46.1	303189.6563	
+High	Q3T030	26S proteasome regulatory subunit 6B OS=Bos taurus OX=9913 GN=PSMC4 PE=2 SV=1	2	1	1	1	418	47.3		Acetyl [N-Term]
+Medium	Q58DL9	Phospholipid transfer protein OS=Bos taurus OX=9913 GN=PLTP PE=2 SV=1	2	1	1	1	510	56.4	3249558.25	
+High	A2VE47	ADP-dependent glucokinase OS=Bos taurus OX=9913 GN=ADPGK PE=2 SV=1	5	2	2	2	497	54.1		
+Medium	F6S0F4	Sperm acrosome associated 9 OS=Bos taurus OX=9913 GN=SPACA9 PE=4 SV=1	6	1	1	1	224	25.1		
+High	F6Q889	Oligodendrocyte-myelin glycoprotein OS=Bos taurus OX=9913 GN=OMG PE=4 SV=1	4	1	1	1	443	49.7		
+Medium	A0AAA9SC39	FA complementation group B OS=Bos taurus OX=9913 GN=FANCB PE=4 SV=1	1	1	1	1	852	96.9		
+High	P17690	Beta-2-glycoprotein 1 OS=Bos taurus OX=9913 GN=APOH PE=1 SV=4	8	2	2	2	345	38.2	523169.8125	
+High	A0A3Q1M5V9	C-C motif chemokine OS=Bos taurus OX=9913 GN=CCL26 PE=3 SV=1	17	2	2	2	94	10.9	1117973.75	
+High	A0AAF6ZCD0	Hsp90 co-chaperone Cdc37 OS=Bos taurus OX=9913 GN=CDC37 PE=3 SV=1	2	1	1	1	438	50.7		
+High	Q2KJJ7	Kunitz-type protease inhibitor 1 OS=Bos taurus OX=9913 GN=SPINT1 PE=2 SV=1	2	1	1	1	513	57.3		
+High	Q3T0Y5	Proteasome subunit alpha type-2 OS=Bos taurus OX=9913 GN=PSMA2 PE=1 SV=3	9	1	1	1	234	25.9		
+High	Q2KIU3	Protein HP-25 homolog 2 OS=Bos taurus OX=9913 PE=2 SV=1	14	2	2	2	215	22.9		
+Medium	F1N678	Aldo-keto reductase family 1 member B10 OS=Bos taurus OX=9913 GN=AKR1B10 PE=3 SV=2	3	1	1	1	310	35.5		
+High	A0A3Q1LZY6	Protein FAM151A OS=Bos taurus OX=9913 GN=FAM151A PE=3 SV=2	2	1	1	1	586	64		
+High	E1BCW3	ATP-dependent 6-phosphofructokinase OS=Bos taurus OX=9913 GN=PFKP PE=3 SV=4	3	2	2	2	909	97.4		
+High	A0A3Q1MEZ5	Alpha-mannosidase OS=Bos taurus OX=9913 GN=LOC528518 PE=3 SV=2	4	4	4	1	985	112.4		
+High	A5D7H3	Choline transporter-like protein 2 OS=Bos taurus OX=9913 GN=SLC44A2 PE=2 SV=1	1	1	1	1	706	80	974064.4375	
+Medium	A0ABI0P1U1	SRCR domain-containing protein OS=Bos taurus OX=9913 GN=LOC787904 PE=4 SV=1	7	1	1	1	359	39.7	550488.0625	
+Medium	E1B9L3	WAP four-disulfide core domain 10A OS=Bos taurus OX=9913 GN=WFDC10A PE=4 SV=3	9	1	1	1	78	8.9		
+High	Q58DU5	Proteasome subunit alpha type-3 OS=Bos taurus OX=9913 GN=PSMA3 PE=1 SV=3	7	2	2	2	255	28.4		
+High	Q32KL7	Sperm equatorial segment protein 1 OS=Bos taurus OX=9913 GN=SPESP1 PE=2 SV=1	5	1	1	1	366	41.4		
+High	E1BL29	Bleomycin hydrolase OS=Bos taurus OX=9913 GN=BLMH PE=3 SV=1	2	1	1	1	459	52.9		
+High	Q2KIL5	Protein disulfide-isomerase A5 OS=Bos taurus OX=9913 GN=PDIA5 PE=2 SV=1	1	1	1	1	521	59.6	416477.9375	
+Medium	P15691	Vascular endothelial growth factor A OS=Bos taurus OX=9913 GN=VEGFA PE=1 SV=1	4	1	1	1	190	22.3	425553.5625	
+High	A0A3Q1LPG0	Ig-like domain-containing protein OS=Bos taurus OX=9913 PE=1 SV=3	5	2	2	2	423	46.8	7732669	
+High	A0A3Q1MP74	SUN domain containing ossification factor OS=Bos taurus OX=9913 GN=SUCO PE=4 SV=3	1	1	1	1	1253	139		
+High	P55859	Purine nucleoside phosphorylase OS=Bos taurus OX=9913 GN=PNP PE=1 SV=3	9	1	1	1	289	32		
+High	A0A140T841	Prostamide/prostaglandin F synthase OS=Bos taurus OX=9913 GN=PRXL2B PE=3 SV=2	14	1	1	1	214	23	548487.25	
+High	P61287	Serine/threonine-protein phosphatase PP1-gamma catalytic subunit OS=Bos taurus OX=9913 GN=PPP1CC PE=2 SV=1	3	1	1	1	323	37		
+High	Q3ZBW5	Rho-related GTP-binding protein RhoB OS=Bos taurus OX=9913 GN=RHOB PE=2 SV=1	20	2	2	1	196	22.1		
+Medium	Q3SZP7	Villin-1 OS=Bos taurus OX=9913 GN=VIL1 PE=2 SV=3	1	1	1	1	827	92.7		
+High	Q2KJE5	Glyceraldehyde-3-phosphate dehydrogenase, testis-specific OS=Bos taurus OX=9913 GN=GAPDHS PE=2 SV=1	4	1	1	1	395	43.3		
+High	Q8WMY2	Farnesyl pyrophosphate synthase OS=Bos taurus OX=9913 GN=FDPS PE=1 SV=1	5	1	1	1	353	40.5		
+High	A0ABI0NLF3	Protein S100 OS=Bos taurus OX=9913 GN=S100A11 PE=1 SV=1	6	1	1	1	142	15.1		
+High	G3X755	Plexin-B2 OS=Bos taurus OX=9913 GN=PLXNB2 PE=3 SV=3	1	1	1	1	1938	214.8		
+High	P15246	Protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Bos taurus OX=9913 GN=PCMT1 PE=1 SV=2	10	2	2	2	227	24.6	3671447.656	
+Medium	A0JNM2	Thioredoxin OS=Bos taurus OX=9913 GN=TXNDC8 PE=2 SV=1	9	1	1	1	105	12.2	302229.0625	
+High	E1BLR9	Carboxypeptidase D OS=Bos taurus OX=9913 GN=CPD PE=3 SV=3	1	1	1	1	1377	152.5		
+High	P13135	Calpain small subunit 1 OS=Bos taurus OX=9913 GN=CAPNS1 PE=2 SV=1	4	1	1	1	263	27.9		
+High	Q2T9M8	Synaptosomal-associated protein OS=Bos taurus OX=9913 GN=SNAP23 PE=2 SV=1	6	1	1	1	211	23.2		
+High	A0AAA9TLN2	Apolipoprotein M OS=Bos taurus OX=9913 GN=APOM PE=3 SV=1	6	2	2	2	201	22.5	432977.2813	
+High	Q3T0W4	Protein phosphatase 1 regulatory subunit 7 OS=Bos taurus OX=9913 GN=PPP1R7 PE=1 SV=1	6	1	1	1	360	41.4		
+High	A0AAA9TAD7	N-acetylated-alpha-linked acidic dipeptidase 2 OS=Bos taurus OX=9913 GN=NAALAD2 PE=3 SV=1	5	2	2	2	740	83	497783.1875	
+Medium	A7MBC7	Nuclear envelope integral membrane protein 1 OS=Bos taurus OX=9913 GN=NEMP1 PE=2 SV=1	2	1	1	1	445	50.9	8664930	
+Medium	E1BEZ8	protein-tyrosine-phosphatase OS=Bos taurus OX=9913 GN=PTPN14 PE=3 SV=3	1	1	1	1	1190	134.8		
+Medium	F1N665	Arylsulfatase G OS=Bos taurus OX=9913 GN=ARSG PE=3 SV=3	2	1	1	1	525	56.6		
+Medium	A0AAA9T9J6	ADP-ribosylation factor OS=Bos taurus OX=9913 GN=ARF4 PE=1 SV=1	4	1	1	1	184	21	279558.5938	
+High	A0AAA9TH14	Serine racemase OS=Bos taurus OX=9913 GN=SRR PE=3 SV=2	5	1	1	1	392	41.6	827433.3125	
+High	P33672	Proteasome subunit beta type-3 OS=Bos taurus OX=9913 GN=PSMB3 PE=1 SV=3	3	1	1	1	205	23	645859.0625	
+High	F1ME38	Ubiquitin-like modifier-activating enzyme 6 OS=Bos taurus OX=9913 GN=UBA6 PE=3 SV=2	2	2	2	2	1048	117.9		
+Medium	F1MET0	procollagen-lysine 5-dioxygenase OS=Bos taurus OX=9913 GN=PLOD3 PE=4 SV=1	1	1	1	1	751	85.8		
+High	A0AAA9SFD8	Joining chain of multimeric IgA and IgM OS=Bos taurus OX=9913 GN=JCHAIN PE=1 SV=1	12	2	2	2	214	24.1		
+High	Q32LM2	Small glutamine-rich tetratricopeptide repeat-containing protein alpha OS=Bos taurus OX=9913 GN=SGTA PE=2 SV=1	9	2	2	2	313	34.2	802230.625	
+High	A5PJX4	Mesoderm induction early response protein 2 OS=Bos taurus OX=9913 GN=MIER2 PE=2 SV=1	1	1	2	1	561	61.3	1203732.125	
+Medium	G3X6U1	Aldehyde dehydrogenase 1 family member A2 OS=Bos taurus OX=9913 GN=ALDH1A2 PE=3 SV=2	2	1	1	1	518	56.7	352124.7813	
+High	F1N7X5	Aquaporin-3 OS=Bos taurus OX=9913 GN=AQP9 PE=3 SV=3	10	1	1	1	295	31.8		
+High	A0A3Q1MCW8	alpha-1,6-mannosyl-glycoprotein 6-beta-N-acetylglucosaminyltransferase OS=Bos taurus OX=9913 GN=MGAT5 PE=3 SV=1	3	2	2	2	739	84.3		
+High	A0AAA9RTT5	Golgi associated kinase 1A OS=Bos taurus OX=9913 GN=GASK1A PE=3 SV=1	5	2	2	2	575	63.1	366045.3438	
+High	A0ABI0P7D0	GDP-fucose protein O-fucosyltransferase 2 OS=Bos taurus OX=9913 GN=POFUT2 PE=3 SV=1	2	1	1	1	526	59.4	400064.5	
+Medium	Q3SZA5	Spermine synthase OS=Bos taurus OX=9913 GN=SMS PE=2 SV=1	3	1	1	1	365	41.2	5530673.5	
+High	F1N1D8	Multiple inositol polyphosphate phosphatase 1 OS=Bos taurus OX=9913 GN=MINPP1 PE=3 SV=1	6	3	3	3	486	55.2	314314.4688	
+Medium	A0A3Q1MHB0	Receptor protein-tyrosine kinase OS=Bos taurus OX=9913 GN=EGFR PE=3 SV=2	1	1	1	1	1209	134		
+Medium	A0AAA9S753	E3 ubiquitin-protein ligase RBX1 OS=Bos taurus OX=9913 GN=RBX1 PE=3 SV=1	4	1	1	1	223	24.3		
+High	Q32P86	Beta-defensin 119 OS=Bos taurus OX=9913 GN=DEFB119 PE=3 SV=1	12	1	1	1	83	9.8	718050.25	
+Medium	P13214	Annexin A4 OS=Bos taurus OX=9913 GN=ANXA4 PE=1 SV=2	5	1	1	1	319	35.9		
+High	A0AAA9SEX7	Endothelin-2 OS=Bos taurus OX=9913 GN=EDN2 PE=3 SV=1	6	1	1	1	184	20.4		
+High	Q2KJ93	Cell division control protein 42 homolog OS=Bos taurus OX=9913 GN=CDC42 PE=1 SV=1	5	1	1	1	191	21.2	414874.0625	
+High	A0AAA9TDY4	Neuromedin B OS=Bos taurus OX=9913 GN=NMB PE=3 SV=1	9	1	1	1	138	15	480259.625	
+High	Q32LM0	Endophilin-B1 OS=Bos taurus OX=9913 GN=SH3GLB1 PE=2 SV=1	14	2	2	2	365	40.8	487915.0313	
+High	Q28133	Allergen Bos d 2 OS=Bos taurus OX=9913 PE=1 SV=1	7	1	1	1	172	19.5		
+High	A0AAA9TG35	Lymphocyte antigen 6 family member K OS=Bos taurus OX=9913 GN=LY6K PE=4 SV=1	5	1	2	1	166	18.1	578009.3125	
+High	Q2KI42	26S proteasome non-ATPase regulatory subunit 11 OS=Bos taurus OX=9913 GN=PSMD11 PE=2 SV=3	7	1	1	1	422	47.4		
+Medium	G5E5C8	Transaldolase OS=Bos taurus OX=9913 GN=TALDO1 PE=1 SV=1	3	1	1	1	337	37.7		
+High	Q1RMM2	Lymphocyte antigen 6 complex, locus E OS=Bos taurus OX=9913 GN=LY6E PE=2 SV=1	8	1	1	1	130	13.7	419234.3125	
+High	Q2KIT0	Protein HP-20 homolog OS=Bos taurus OX=9913 PE=2 SV=1	12	1	1	1	191	20.6		
+High	A0A3Q1M2I4	Lipase H OS=Bos taurus OX=9913 GN=LIPH PE=3 SV=3	4	1	1	1	457	51.4		
+High	P58353	Solute carrier family 2, facilitated glucose transporter member 5 OS=Bos taurus OX=9913 GN=SLC2A5 PE=1 SV=2	12	2	2	2	501	55.4		
+High	E1BP91	Aminopeptidase OS=Bos taurus OX=9913 GN=NPEPPS PE=1 SV=2	2	1	1	1	921	103.5		
+High	Q2KIT5	Protein disulfide isomerase CRELD2 OS=Bos taurus OX=9913 GN=CRELD2 PE=2 SV=1	5	1	1	1	351	38.2		
+High	P46193	Annexin A1 OS=Bos taurus OX=9913 GN=ANXA1 PE=1 SV=2	10	2	2	2	346	38.9		
+Medium	Q3T0Q2	Transmembrane protein 59 OS=Bos taurus OX=9913 GN=TMEM59 PE=2 SV=2	3	1	1	1	323	36	315014.4688	
+High	A0AAA9TFX1	DNA-directed RNA polymerase subunit beta OS=Bos taurus OX=9913 GN=POLR3B PE=3 SV=1	2	1	1	1	1138	128.4	2005729.375	
+High	G3X745	Glypican-1 OS=Bos taurus OX=9913 GN=GPC1 PE=2 SV=1	5	2	2	2	559	61	184086.7188	
+Medium	Q3ZCF7	Ubiquitin-conjugating enzyme E2 D3 OS=Bos taurus OX=9913 GN=UBE2D3 PE=2 SV=1	16	1	1	1	147	16.7		
+High	Q3ZCD0	CD81 antigen OS=Bos taurus OX=9913 GN=CD81 PE=2 SV=1	10	1	1	1	236	25.8		
+High	A1A4K5	Autotaxin OS=Bos taurus OX=9913 GN=ENPP2 PE=1 SV=1	1	1	1	1	888	101.7	449660.6875	
+Medium	F1N5L9	Olfactory receptor OS=Bos taurus OX=9913 GN=OR11H7 PE=3 SV=4	10	1	1	1	314	35.4		
